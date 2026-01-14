@@ -24,3 +24,27 @@
     }
   }
 }
+
+.one-two-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 1rem;
+}
+
+@media (max-width: 768px) {
+  .one-two-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.two-one-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 1rem;
+}
+
+@media (max-width: 768px) {
+  .two-one-grid {
+    grid-template-columns: 1fr;
+  }
+}

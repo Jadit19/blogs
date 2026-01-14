@@ -1,33 +1,17 @@
 # The Site Configuration
 
-# Import the theme
 theme: jekyll-theme-chirpy
-
-# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
-# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
-# otherwise, the layout language will use the default value of 'en'.
 lang: en
-
-# Change to your timezone › https://zones.arilyn.cc
 timezone: Asia/Kolkata
 
-# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-# ↓ --------------------------
-
 title: Adi's Diaries
-
 tagline: Audit trail of poor decisions
-
-description: >- # used by seo meta and the atom feed
+description: >-
   Optimized for regret, Archived for posterity.
-
-# Fill in the protocol & hostname for your site.
-# E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://blogs.aditjain.me"
 
 github:
-  username: jadit19 # change to your GitHub username
-
+  username: jadit19
 social:
   name: Adit Jain
   email: jadit19@gmail.com 
@@ -66,28 +50,17 @@ analytics:
 pageviews:
   provider: # now only supports 'goatcounter'
 
-# Prefer color scheme setting.
-#
-# Note: Keep empty will follow the system prefer color by default,
-# and there will be a toggle to switch the theme between dark and light
-# on the bottom left of the sidebar.
-#
-# Available options:
-#
-#     light — Use the light color scheme
-#     dark — Use the dark color scheme
-#
-theme_mode: # [light | dark]
+theme_mode: dark
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+cdn: https://res.cloudinary.com/dthsy1k8g/image/upload
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /v1768401249/profile_jnjxbz.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
