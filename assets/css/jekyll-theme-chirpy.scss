@@ -48,3 +48,15 @@
     grid-template-columns: 1fr;
   }
 }
+
+.one-one-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+
+@media (max-width: 768px) {
+    .one-one-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+}
