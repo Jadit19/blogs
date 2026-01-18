@@ -3,7 +3,7 @@ title: "23 Before 23: Chennai Express"
 description: From Delhi to Chennai, within 72 hours
 author: adit
 date: 2025-12-01 22:31:00 +0530
-tags: ['23 before 23', bike, delhi, arga, nagpur, hyderabad, chaarminar, chennai, cyclone]
+tags: ['23 before 23', bike, delhi, arga, nagpur, hyderabad, charminar, chennai, cyclone]
 image:
   path: /v1768567207/taj-mahal-first-glimpse_bjmmgh.jpg
 ---
@@ -79,11 +79,11 @@ It was almost 6 hours on the road for now, and the majority of riders will tell 
 
 ## Day 2: Nagpur to Hyderabad (Nov 30)
 
-### Heading to the starting line
+### Starting line
 
 I call Hyderabad my "starting line" because the way I had this trip planned, I primarily wanted to explore South India as I haven't been there properly. And well, my rudimentary doc started from Hyderabad. The distance to Hyderabad was not that much, coming in just shy of 500 kms, and 9 hours, so I was not *as worried as yesterday*. My alarm woke me up at 6 AM, I packed my stuff up, headed downstairs, strapped my luggage, checked-out, and was on my way before 7 AM, before sunrise.
 
-Murphy was excited, I was well rested (dreamless sleep), and there was only one goal in my mind. Push my limits even further. Leaving at 7 in the morning with an estimated drive time of 9 hours meant that I'd reach Hyderabad *just in time* to see Chaarminar before sunrise. But you already know me. Driving recklessly simply comes naturally for some reason. I went 150+ on each and every single song of [this playlist](https://open.spotify.com/playlist/0X3XR1zNCM2ibPH3qVr3g1?si=I6bVFF8jS3aA20hvKG-MxA&pi=QNSTLS4ORCK3G) I made *just* for when I drive, reaching the hostel by 1:30 PM. Here are a few shots Toothless got from the drive:
+Murphy was excited, I was well rested (dreamless sleep), and there was only one goal in my mind. Push my limits even further. Leaving at 7 in the morning with an estimated drive time of 9 hours meant that I'd reach Hyderabad *just in time* to see Charminar before sunset. But you already know me. Driving recklessly simply comes naturally for some reason. I went 150+ kmph on each and every single song of [this playlist](https://open.spotify.com/playlist/0X3XR1zNCM2ibPH3qVr3g1?si=I6bVFF8jS3aA20hvKG-MxA&pi=QNSTLS4ORCK3G) I made *just* for when I drive, reaching the hostel by 1:30 PM. Here are a few shots Toothless got from the drive:
 
 <div class="one-two-grid">
   <div>
@@ -110,7 +110,7 @@ I checked-in the hostel, and immediately took Murphy out again. This time, not f
 
 ### Hotel Shadab
 
-A colleague of mine from work, Srithan, is originally from Hyderabad. I called him up and asked for restaurant recommendations. I'm in Hyderabad, ain't no way I'm skipping the legendary Biryani. He recommended me Hotel Shadab and warned me that it'll be bsy and the wait times can range from 10 mins to hours. Didn't scare me even a little. See, the place he recommended was on the way to Chaarminar and was actually waking distance from it. And if there's one thing I was planning to do on this trip? Get authentic experiences, not curated ones. For anyone curious, here's what he recommended me to try there:
+A colleague of mine from work, Srithan, is originally from Hyderabad. I called him up and asked for restaurant recommendations. I'm in Hyderabad, ain't no way I'm skipping the legendary Biryani. He recommended me Hotel Shadab and warned me that it'll be bsy and the wait times can range from 10 mins to hours. Didn't scare me even a little. See, the place he recommended was on the way to Charminar and was actually waking distance from it. And if there's one thing I was planning to do on this trip? Get authentic experiences, not curated ones. For anyone curious, here's what he recommended me to try there:
 
 - Shadab Special Chicken Biryani (Ghosh)
 - Tandoori Chicken
@@ -121,13 +121,15 @@ A colleague of mine from work, Srithan, is originally from Hyderabad. I called h
 
 Yeah. It's a lot. And it was a GOOOOOD thing I was hungry asf. I reached there, got in line, and waited for around 20 minutes. The thing is, I was by myself. And the tables over there seat exactly 4. It was peak time and there was no way I was getting a table all to myself. Fortunately, and thanks to my great luck, I was seated with three people a couple years older than me and believe me when I tell you this, we had a blast. Two guys and a girl. All three were in Hyderabad for a trip as well. Two were from IISc Bangalore (Vaishnavi and Alvin Joshua) and one was from Gujrat, working in Vijaywada (Rutvik).
 
+![Irani Chai + Osmania Biscuit](/v1768589348/IMG_9361_llnf99_compressed_pkpan2.webp)
+
 Rutvik and I bonded particularly well since we shared the same travel gene and the craze for adventure. We exchanged travel stories, and I told them about my 23 Before 23 plan. They were amazed, and we exchanged contact numbers, to keep in touch in case any of us were planning a trip sometime soon, New Year's for example.
 
-We ~~over~~ate and then had the Irani Chai and Osmania Biscuit combo there itself. After settling the bill, I told them I'll be heading on to Chaarminar to get some shots in before sunset. Rutvik said, and I quote, `"Toh chalo saath mein, hum bhi udhar hi jaa rhe h"`
+We ~~over~~ate and then had the Irani Chai and Osmania Biscuit combo there itself. After settling the bill, I told them I'll be heading on to Charminar to get some shots in before sunset. Rutvik said, and I quote, `"Toh chalo saath mein, hum bhi udhar hi jaa rhe h"`
 
-### Chaarminar
+### Charminar
 
-We made our way through the sea of people towards Chaarminar, and boy was it beautiful:
+We made our way through the sea of people towards Charminar, and boy was it beautiful:
 
 <div class="one-one-grid">
   <div>
@@ -138,18 +140,117 @@ We made our way through the sea of people towards Chaarminar, and boy was it bea
   </div>
 </div>
 
+We took a look around, with "Beware of pick-pocketers" being blasted through the speakers every few minutes. Bought a life-saving custom-made perfume from a street vendor for ₹80 and explored the local market. I got myself a black ring for my little finger since it looked kinda neat. After spending a good hour there, I told them that I kinda wanted to get a good drone shot of Charminar from up above.
 
-![Me and the gang at Chaarminar](/v1768586956/DJI_20251130184742_0119_D_compressed_msclo5.webp)
+Immediately, Rutvik was like "I am in. Let's head to a more secluded area where the police cant find us". Alvin had no comments and Vaishnavi was visibly uncomfortable with the idea, but she agreed to tag along. And that's what we did, making our way out of the crowded Charminar area and into the street north of [Santoshi Matha Mandir](https://maps.app.goo.gl/H5LEioDE8xJKEBwc7). I setup Toothless and flew it straigh up. Charminar was sporting the Indian flag and did it look pretty:
+
+![Me and the gang at Charminar](/v1768586956/DJI_20251130184742_0119_D_compressed_msclo5.webp)
+
+Worried that the police might show up any minute (since we had already asked a local policeman if we could fly drones around here, and him, non-chalantly replying "Yes, if you're winning to go to jail"), I quickly brought Toothless down and packed him up. I was visibly upset that I couldn't get an orbit shot, and I think Rutvik noticed it. After walking a couple hundred feet, he asked what the range of my drone was. 2km, I said, sheepishly. His eyes lit up. "Thodi dur chalte h phir, logo se dur, jahaan police humein pakad hi na paaye". You already know I was on-board with this mad idea.
+
+We crossed a Jain temple, and I was pleasantly surprised to hear Rutvik point it out to me and ask me if I was a Digaambar or a Shwetaambar Jain. For my readers who don't know, Digaambar Jains are the ones who don't believe in wearing clothes, while, Shwetaambar Jains, such as myself, believe in waering only-white clothes. After crossing a couple of streets and losing the sight of him occassionally, we found a convenient spot.
+
+I was a bit unsure, thinking, "What if the police have eyes on us already?", "What if the police have setup signal jammers here?", "What if they catch us mid-air?". But Rutvik? Unfazed. Balls of steel, that guy. He told me to just fly it up, we'll see whatever happens, fight the police if we need to. And that boost of confidence was what I needed. Took Toothless out and spread his wings. Flew him up to 120 metres (his max altitude), zoomed 3x for a clear shot, selected the Charminar, and clicked orbit. Now, for some geographical context, we were at the north end of the monument, a good 800 metres away. Toothless started tracking the monument, and I could see the live feed on my controller. The shot was looking good, and I was getting some great footage.
+
+Suddenly, the controller went black and white. No signal. Heart in my mouth, I frantically tried to reconnect, but to no avail. Rutvik was like "Chill, bro, does it not have return to home?". It did. But without a signal, I could not command it to return to home. I waited for a couple of minutes, head on my hands, hoping for a miracle. Nothing. Finally, after what felt like an eternity, the screen went completely black with shining lights in the bottom half and a green path drawn on it. "Returning to home" written across the top of my controller's screen, I breathed a sign of relief. To my defense, I had not flown Toothless for that long, and I was not aware of this functionality of DJI drones, that it returns to home if the signal is lost. Toothless made it back to me in one piece, and I was ecstatic. Rutvik and I high-fived each other, and we made our way back to my bike, parked near Hotel Shadab.
 
 ### Birla Mandir
 
+![Birla Mandir](/v1768708084/IMG_9397_compressed_b0npbu.webp)
+
+<div class="two-one-grid">
+  <div>
+    Vaishnavi asked me if I wanted to join them for visiting Birla Mandir. I was tired, hungry and wanted to get back to the hostel, but I couldn't say no to an opportunity like this. So, I agreed. It was already 6:30 PM, Vaishnavi and Alvin hopped in the back of an auto, Rutvik jumped on the back of my bike and we made our way to the top of the Mandir, dropping Murphy off at the parking. After dooing the darshan, we sat down at the foot of the mandir, talking about life and stuff, watching the bustling city, lights come alive, the buddha statue light up and the imposing secretariat building right in front of us. It was a calming sight. <br /><br />
+
+    After spending about 15-20 mins, just admiring the view, we headed back down. Near the parking, I observed a sign that said "Birla Planetarium", "Dinosaurium" and "G P Birla Observatory". The nerd in me was happily excited. Reality struck in. Chennai was tomorrow, I decided to make a mental note of reserving a day exclusively for this the next time I'm in Hyderabad.
+  </div>
+  <div>
+    <img src="/v1768589384/IMG_9399_eyeqdx_compressed_v6iyya.webp" />
+  </div>
+</div>
+
+
+<video
+  autoplay loop muted playsinline style="max-width: 100%; height: auto; margin-top: 0.5rem;">
+  <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1768709278/DJI_20251130203134_0131_D_converted_hw3mkk.mp4" type="video/mp4">
+</video>
+
+The three of them were staying at an AirBnb for the night and were leaving tomorrow. Rutvik, on the other hand, had a bus tonight (10:30 PM I think?). I was in the mood for a Kulfi. Fun fact, I'm always in the mood for some Kulfi. After a bit of off-roading, me and Rutvik made our way down to a Naturals outlet nearby. Had some delicious kulfi there, chatted a little, and then bid aideu to each other, promising to keep in touch. I made my way back to the hostel, unpacked my stuff, put my mobile, power-bank, GoPro and Toothless' batteries to charge and promptly hit the bed, ready for Chennai tomorrow. The hostel I spent the night in was pretty good:
+
+<div class="one-one-grid">
+  <div>
+    <img src="/v1768711504/IMG_9405_compressed_wlyivn.webp" />
+  </div>
+  <div>
+    <img src="/v1768589373/IMG_9407_xykylw_compressed_lyrusp.webp" />
+  </div>
+</div>
+
 ## Day 3: Hyderabad to Chennai (Dec 1)
 
-### Starting with high hopes
+### Nagarjuna Sagar
+
+Woke up early morning at 5:30 AM, woke up almost the entire dorm along with me (unfortunately), checked out, and was on the road by 6 AM. Pretty early, huh? Well, Chennai was almost 12 hours away, 600+ kms. And I wanted to avoid the morning traffic rush that is inevitable in any metro city, especially since I was so deep in one. Even for my stupidly reckless driving style, Chennai would be at least 8 hours non-stop. And I had already planned a few stops along the way. I made my way south-east, on the Hyderabad-Nagarjuna Sagar Road, clearing Godkondla before seeing my first Coconut trees.
+
+I was excited seeing the trees as my head was filled with just one thought. I had seen a lot of drone FPV videos, and this was my day I thought. Pulled Toothless out, flew him up, and got some pretty good shots of the coconut trees:
+
+![](/v1768712532/DJI_20251201070158_0132_D_compressed_eitvgh.webp)
+
+![](/v1768712533/DJI_20251201070320_0138_D_compressed_ewel9w.webp)
+
+High on confidence from evading the police yesterday, to getting the drone back safely, and the silence of this place, I made an impulsive decision to put Toothless on "Sport Mode" and fly him over the coconut trees. For the uninitiated, Sport Mode is a mode in DJI drones where the drone flies at its maximum speed, and the controls are more sensitive. It also **disables the obstacle avoidance sensors**. I took off, flew him around and in-between the trees and was having a blast when I turned him around as he was flying back and then *BAM!!*
+
+<video
+  autoplay loop muted playsinline style="max-width: 100%; height: auto; margin-top: 0.5rem;">
+  <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1768713169/DJI_20251201070424_0141_D_converted_lnynef.mp4" type="video/mp4">
+</video>
+
+He crashed headfirst into the leaves of a Coconut tree, getting stuck somewhere around 15-20 metres high. Bear in mind, I was standing a couple hundred metres away, on the roadside. Panic absorbed me, I was disturbed. Toothless was still connected to my controller, and I could see the live feed. But I couldn't control him. I tried everything ChatGPT told me to do in such situations. Nothing worked, he was stuck and I was feeling devastated. Almost in tears, the thought of leaving him there crossed my mind. But I couldn't do that. Not after all we've been through together. I had to get him down.
+
+After a lot of slow deep breaths, I calmed myself down and started thinking rationally. The tree was tall, and there was no way I could climb it. I tooked around for help. There was an Indian Oill Petrol Pump (that you'll probably see in the crash video above) just a couple metres away. I parked Murphy there, and asked for help. I didn't understand Telugu, and the attendants didn't understand English. After a lot of hand gestures, and trying to explain the situation, the obvious came into my mind. I opened up google translate, and let them know the reason of my stress.
+
+Shiva, the manager of the petrol pump gave me some water and told me to wait for some time. I hastly told him that I did not have a lot of time since both the controller's and the drone's batteries will be running out soon. After 15 minutes of counting the cash on hand (he had a lot, I kid you not, I might consider owning a petrol pump or two myself seeing how even a remote one could generate such cash), he told me to follow him. Right outside the petrol pump was a ladder that we picked up and headed towards the tree.
+
+> For anyone interested in the exact location of this crash: [16.932085N, 78.730054E](https://maps.app.goo.gl/Xbp8ChxhDjvGR4gVA)
+{: .prompt-warning }
+
+Fortunately, the tree was not that far. And what followed was a scene straight out of the movie. A human, shot toothless out of the sky, he fell down and lost his wing. Yes, Toothless lost his front-left wing to the crash. But he was alive. I hugges Shiva, thanked him profusely, and we made our way back to the petrol pump. I quickly packed Toothless, checked the damage. The gimbal was slightly misaligned, but other than that, he was perfectly fine. I powered him on, and to my relief, he booted up normally. I checked the camera, the ND64 filter was cracked, but the footage and SD Card was intact. I was relieved. Shiva refused any payment, and I insisted on giving him something for his help. He declined, what a great man! I thought.
+
+I stayed there for a while, drank some water, and called up my friend, Akshit. He is a drone wizard, and I wanted to consult him on the damage. He was shocked to hear I was outside of Hyderabad (I'd woken him up with my call before 8AM) and I'd gotten a drone XD. Showing him the damage, he concluded that since the gimbal and electronics were fine, it should not cost me more than ₹1500 to get it fixed. Opening google maps, I had 2 options left with me:
+
+- Head back to Hyderabad, get Toothless fixed and Murphy serviced. Could see the Birla Planetarium but it would cost me a day
+- Stick with my plan to march on towards Chennai, get Toothless fixed there, stay on schedule but miss some shots
+
+Obviously, I chose the latter one. There was no way I was deviating from my schedule. And that was about to cost me, dearly, as you'll find out soon enough. Making my way south-east, I headed onwards to the Ngarjuna Sagar dam, on the river Krishna, bordering both Telangana and Andhra Pradesh. Did a bit of off-roading and dirt biking there, and thoroughly missed the ability to fly and get close-up shots. With the benefit of hind-sight, had I flown Toothless too close to the dam, the army could've possibly captured my drone as an energy-producing dam is of military interest. Police is one thing, but there was no way in hell I was going to mess with the military so I grabbed some photos on my phone instead:
+
+![](/v1768714779/IMG_9424_compressed_ap8wx2.webp)
+
+![](/v1768714780/IMG_9425_compressed_ryvj2x.webp)
+
+Murphy looks GOOOOOOOOOD, doesn't she? I made my way further south-east along NH 565 till Macherla, and with the cloudy weather, clean roads, no-one in sight? That drive was terrific, to say the least. 150+ on straight stretches and conrnering on 100? Oh I was in heaven.
+
+<video
+  autoplay loop muted playsinline style="max-width: 100%; height: auto; margin-top: 0.5rem;">
+  <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1768716216/GX010039_converted_jnj0fc.mp4" type="video/mp4">
+</video>
 
 ### Nature's other plans
 
+I made my way further east till Nekarikallu and then look a right (South), crossing Vipparla, Rompicherla, Elchur and Kommala Padu. Stopped for a bried moment to step aside from Murphy, simply to admire her. It was drizzling a little which made me bring out my wind-cheater, but I moved forward since the rain was light. Made my way down south till Bodduvani Palem where I merged with NH 16 and onwards till Ongole.
+
+Just outside Ongole, somewhere in its outskirts, around 40kms from the city centre, the drizzle converted itself to full-on downpour slaughter. I pulled up on an abandoned Bharat Petroleum Fuel Pump for the shelter, covered my bagpack and tankbag with their covers and continued onwards, with just one goal in mind: ***Let the throttle rip***.
+
+I crossed Kavali, stopped for lunch at a Punjabi dhaba, made my way south towards Nellore and cruising past Gudur when I first saw the signs for Sriharikota. I was way too excited. This is the place in India from where the majority of rockets are launched by IRSO. Chandrayaan, Mangalyaan, you name it. The next time I'm in Chennai or atleast the vicinity of it, there are 2 places I absolutely have to visit:
+
+- Sriharikota (a full day, bare minimum, by choice)
+- Tirumala Tirupathi Temple (a full day, bare minimum, not by choice)
+
+> The Kolkata-Chennai highway didn't disappoint. 4+ hours of nearly non-stop, savage driving under thunderstorm conditions, averaging 120+ on highway roads slippery as hell, overtaking trucks like I've been at it since the last 20 years, I felt confidence gushing through my veins and my brain high on adrenaline when [Manasha](https://open.spotify.com/track/4yPynbuLyYXJ0vfi3Kj4lf?si=v5_sCCbRQpO6PrJzhBvKzg) started playing on my headset. Set it to on-repeat till I reached Chennai and the rains finally calmed down a little, but still, not drying up at all.
+{: .prompt-danger }
+
 ### Saviour in disguise
+
+As I reached the Puzhal Lake, I stopped to see where could I get my drone fixed. It was already 5:30PM, and the sun was setting. Reading the reviews and closing timings, there was just one place that I could possibly make in time. Headed towards that, full riding gear btw, made it there by 6:30. Entered the shop, the guy told me that its not that big of a damage and I sighed. Told me that it should not take more than an hour, I dropped my entire drone bag there, booked a place nearby and went there.
 
 > **Stay Information**
 >
@@ -159,3 +260,13 @@ We made our way through the sea of people towards Chaarminar, and boy was it bea
 > - **Accomodation Type**: Deluxe AC Room
 > - **Night Stayed**: 1
 {: .prompt-info }
+
+Booking a private room was utmost needed since I was in no mood to change in a hostel and truth be told? I wanted privacy and most importantly, a place to myself. I checked-in, removed all my gear, took a long hot shower, which was much needed, changed into tshirt and shorts, put on my wind cheater as it was still raining outside and went back to the drone shop, [AeroVision Tech](https://maps.app.goo.gl/i2sLpajNm3UTtRu97). Now that I was a little dry, I observed that the guy had a shit ton of drones, controllers, spare parts, lined up. He was genuinely good at the craft. He told me that he'd tested Toothless and showed me a video of it flying. And Toothless was flying bold. And the cost? Akshit was absolutely right. Exactly ₹1500.
+
+With Toothless gaining his wing back, my trip was on again and I was on cloud nine. There was an uncle of the drone guy sitting in the shop and asked me where I was from, when I told Delhi, he was surprised. Offered me a cup of hot tea, which I gulped, much needed to be honest and that's when he asked me where I was headed next. "Pondicherry", I replied. He replied, "Check the weather channel, there is Cyclone Ditwah going on. Chennai is on red alert, the cyclone might continue till tomorrow. Stay here for atleast one more day and then head on".
+
+Like you, the only word I registered from this entire conversation was "Cyclone?" I had ridden 4+ hours, 200+ kms through a fucking cyclone? I was hella proud of myself. Not a bad day. Chennai was starting to look a whole lot good too (I absolutely love a city just after the rain):
+
+![](/v1768720119/IMG_9443_compressed_muj4ox.webp)
+
+The traffic was still terrible, don't get me wrong. But surviving a cyclone gave me a jolting boost of confidence. But it had taken a lot from me too. I was exhausted, drained and tired. I just wanted to go to sleep. And back I went to my hotel, putting my electronics to charge, GoPro to dry and embraced the sleep, to get ready to face the cyclone again tomorrow on my way to Puducherry.
