@@ -95,7 +95,7 @@ Ordered a burger, with fries on the side and paired it with a strawberry milk sh
 
 On the way, I noticed the Pondicherry University and the fact that the GPS told me I was entering and exiting both Puducherry and Tamil Nadu repeatedly. Turns out, Puducherry is simply a collection of french-influenced areas. An additional thing that I observed was that, unlike the north, there were quite a lot of women in sarees driving scootys. More than half. Some even on bikes. Not just driving, driving it extremely confidently. That put a smile on my face, every single time.
 
-Oh and before I talk about Puducherry, here's a shot Toothless took on the Palar River (U), and the Buckingham Canal bridge (D). Terrific, aren't they?:
+Oh and before I talk about Puducherry, here's a shot Toothless took on the Palar River (L), and the Buckingham Canal bridge (R). Terrific, aren't they?:
 
 <div class="one-one-grid">
   <div>
@@ -178,7 +178,7 @@ Oh, btw, I did go to a temple over there, Arulmigu Manakula Vinayagar Devasthana
   </div>
 </div>
 
-I ate a lot of food, trust me. Complimented a few people on how good they looked. And just roamed around, without a goal in mind as this was the first time in the last 24 hours when the weather was kinda okay The city has its charm, I'll give you that. The people are warm and the food is good. The climate was a bit too humid for my taste, but hey, I'm a mountain person anyway. Soon, it got dark, so I decided to hit the rocks one last time, and captured an alright picture of mine, that I like, so I'll keep it up in full resolution:
+I ate a lot of food, trust me. Complimented a few people on how good they looked. And just roamed around, without a goal in mind as this was the first time in the last 24 hours when the weather was kinda okay. The city has its charm, I'll give you that. The people are warm and the food is good. The climate was a bit too humid for my taste, but hey, I'm a mountain person anyway. Soon, it got dark, so I decided to hit the rocks one last time, and captured an alright picture of mine, that I like, so I'll keep it up in full resolution:
 
 ![](/v1768734875/IMG_9675_compressed_zuyqbm.webp)
 
@@ -205,6 +205,89 @@ Toothless, like the demon-head he is, wanted to fly one more time before turning
 You know the evening drill by now too, don't you? Go to the room, change clothes, keep the electronics to charge, hit the pillow, and go to sleep like a log. Tomorrow was going to be a long day.
 
 ## Day 5: Puducherry to Rameshwaram (Dec 3)
+
+### Drive to Madurai
+
+I had ground to cover today, and I meant business. Woke up before the ass crack of dawn, and was on the road by 5:30 AM (I know this because I have GoPro footage of me on the highway from 5:44 AM to 5:50 AM of Dec 3<sup>rd</sup> on the National Highway). Heading west, Murphy took me till Viluppuram where I made a left going south west along NH 38, which I gotta admit is pretty neat and extremely comfortable. So much so, that just after an hour of driving on it (around 6:45), I was feeling sleepy. I pulled up, put Murphy on timeout on her stand and my head down on the handlebar for some shut-eye.
+
+Yeah, I cannot stop gushing about how terrific the highways of Tamil Nadu were. They say a picture is worth a thousand words, let me give you a video, having a thousand pictures (frames):
+
+<video
+    autoplay loop muted playsinline style="width: 100%; height: auto; margin-top: 0.5rem;">
+    <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1768810251/GX010091_converted_ot8eh9.mp4" type="video/mp4">
+</video>
+
+Madurai was about 5 hours, 330 kms away from Puducherry. And there was just one place I wanted to visit over there, you guessed it, the Meenakshi-Amma Temple. After about another hour of drive, around 8 AM, I was clear of Tiruchirappalli, when I decided to pull into a dhaba, where I got myself some coffee, chips and biscuits. I know, not a healthy start to the day, but I needed something in my body for today. A couple minutes later, 3 guys sat around the table I was on. The closest to me, Vijay, stuck up a conversation with me, that went something like this:
+
+- **Vijay**: *(pointing to Murphy)* Bike you?
+- **Me**: *(smiling)* Yes *(Nodding my head)*
+- **Vijay**: Where going?
+- **Me**: Uhh Madurai, *Meenakshi-Amma Temple*
+- **All 3**: *(converse in Telugu)* Meenakshi-Amma *(converse more in Telugu)*
+- **Vijay**: Where from?
+- **Me**: Delhi, going to Kanyakumari. On bike
+- **Vijay**: *(visibly surprised)* ohhhhhhhhhhh!! *(points to the GoPro on my helmet)* Video?
+- **Me**: Yes, no Insta, for me only
+- **Vijay**: How much
+- **Me**: Camera? *(make a 3 and a 0 with my hands in the air)*
+- **Vijay**: *(Gasps and starts talking to the other two)*
+
+<div class="one-one-grid">
+  <div>
+    I'll not go through the entirety of the conversation here, it is quite interesting. Turns out his mom had worked in Bombay (yes, long before we knew the city as Mumbai) with Lata Mangeshkar. Although a farmer by profession, he plays in the local Cricket league. We exchanged contacts and even to this day, I see him posting, on his WhatsApp status, his cricket wins. I went to pay for my stuff but he calmly said no, and paid for it instead. I thanked him and asked to get a picture with him and his friends, got on Murphy and off I went
+  </div>
+  <div>
+    <img src="/v1768806689/IMG_9702_compressed_o7dfi4.webp" />
+  </div>
+</div>
+
+The drive was unbeliveably good, I kid you not, ladies and gentlemen. My award for the best and well maintained highways in the entire country of India goes to Tamil Nadu, without doubt. No potholes, well kept curbs, less to none traffic, rule-respecting drivers and generally helpful people. The lush greenery that surrounded me isn't something that I'll be forgetting anytime soon:
+
+<div class="one-one-grid">
+  <div>
+    <img src="/v1768806704/DJI_20251203092547_0072_D_compressed_wagati.webp" />
+  </div>
+  <div>
+    <img src="/v1768806716/DJI_20251203083956_0061_D_compressed_u5ngiv.webp" />
+  </div>
+</div>
+
+<div class="one-one-grid">
+  <div>
+    <img src="/v1768806740/DJI_20251203084054_0064_D_compressed_nqrgis.webp" />
+  </div>
+  <div>
+    <img src="/v1768806741/DJI_20251203092437_0069_D_compressed_vuclzw.webp" />
+  </div>
+</div>
+
+### Meenakshi-Amma Temple
+
+Driving for a couple more hours, I found myself in Madurai, making my way to The Temple. Although, I gotta admit, the condition of the roads inside the city? Not as good as the highways. The city felt like any other Indian city, over-crowded, small streets, the people were considerably better than an average North Indian, without doubt. Parked Murphy in the parking, leaving my bagpack and helmet tied to it and was in the Temple premises by 10:30 AM.
+
+Fun fact, my work laptop was always in my bagpack since it was 14 inches, I couldn't fit it in my tank-bag and it would've been unwise to do so since I practically carried my tank-bag everywhere with me. Couldn't take any damage on the laptop, so, had to guard it with layers of insulation to protect it in case of a crash.
+
+One of the main reasons I wanted to be there in the morning, apart from the fact that you gotta pray in the morning, not afternoon or evening, was that there was free lunch being served at 11 AM, and the temple closes, for aarti or something in the afternoon so I'd have to wait for a couple hours in Madurai to go inside the temple again at 3 PM, but that would mess up my plans of reaching Rameshwaram by sunset.
+
+Buying some offerings from a local vendor and a couple *malas* for the two gods inside (as recommended by the vendor), I made my way to the East Raja Tower after depositing everything I had on me (incl my riding jacket, shoes & socks, phone and tank-bag which had pretty much everything of value I had), letting me go inside with just the clothes I had on me, my glasses and my wallet. Security was pretty tight, which is expected, since the temple is quite popular.
+
+Going in, the first decision I made immediately was that I needed an express pass of ₹100 (₹50 each for both the dieties), since I was on a time crunch. Took me about an hour inside, since they had to stop the viewing inside for a short aarti of 15 minutes. Stuck up a conversation in the queue, with a couple from Gurugram, who had quite an active kid. After the darshan of both dieties, I got my prasad, and ate it on the way to the room of Thousand Pillars. Its not technically a thousand, more like 980-something, but hey, credit where credit's due. Pure magnificance. Couldn't get a shot of it since cameras were not allowed and I was not paying ₹500 for a "professional photoshoot" done with a Nikon Z50.
+
+The food hall was open, but there was an extremely long line, which to be honest, I shoud've accounted for. This would've easily run me over an hour of just waiting and I was not in a mood for that as I was hungry. Very hungry. Made my way out of there, and asked a police uncle for some food recommendations nearby. He pointed me to the restaurant and I ate THE most delicious South Indian thali I've ever had in my entire life over there. For just ₹150. With unlimited servings. Since I was the only customer there at that time, the staff was extra polite and I literally had to tell tham that there's no way I cannot accept or eat more food.
+
+<div class="one-one-grid">
+  <div>
+    <img src="/v1768812618/IMG_9727_compressed_vccg2z.webp" />
+  </div>
+  <div>
+    Paying the bill, and leaving a 200% tip, I collected my stuff and made my way to the multi-level car parking. Toothless wanted to fly. There are no drones allowed inside the temple premises, so i get to get creative, taking the temple and traffic police, both, info mind. So after procuring a good spot near the parking that would let me depart quickly, I let him spread his wings and take an orbit shot of the Temple
+  </div>
+</div>
+
+<video
+  autoplay loop muted playsinline style="width: 100%; height: auto; margin-top: 0.5rem;">
+  <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1768812558/DJI_20251203123903_0078_D_converted_tuz0s1.mp4" type="video/mp4">
+</video>
 
 > **Stay Information**
 >
