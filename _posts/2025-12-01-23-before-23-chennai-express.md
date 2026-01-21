@@ -14,9 +14,10 @@ image:
 
 Nervous? Absolutely. Excited? You bet. Woke up early to clock-in early, and clocked-out early around 5 PM. Did my packing throught he lunch break. Got my bagpack ready and mounted, strapped and secured my tank bag, gave Murphy a last minute check-up at 3611 kms, wore my riding gear (just the jacket tbh), and hit the road at 5:45 PM. Tank filled with oil, lungs filled with air, ears filled with my favourite music, heart filled with excitement and mind fueled by adrenaline, I was ready to go.
 
-Long ago, as I'd decided to take this journey as a traveller, not a tourist, I'd also made a promise to myself, that the only use of internet on this trip would be to do two things, and I'm glad I stuck to it:
+Long ago, as I'd decided to take this journey as a traveller, not a tourist, I'd also made a promise to myself, that the only use of internet on this trip would be to do three things, and I'm glad I stuck to it:
 1. Navigation
 2. Booking accomodation
+3. Making UPI payments
 
 ### Warming up on chilly evenings
 

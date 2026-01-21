@@ -223,7 +223,7 @@ Madurai was about 5 hours, 330 kms away from Puducherry. And there was just one 
 - **Me**: *(smiling)* Yes *(Nodding my head)*
 - **Vijay**: Where going?
 - **Me**: Uhh Madurai, *Meenakshi-Amma Temple*
-- **All 3**: *(converse in Telugu)* Meenakshi-Amma *(converse more in Telugu)*
+- **All 3**: *(converse in Tamil)* Meenakshi-Amma *(converse more in Tamil)*
 - **Vijay**: Where from?
 - **Me**: Delhi, going to Kanyakumari. On bike
 - **Vijay**: *(visibly surprised)* ohhhhhhhhhhh!! *(points to the GoPro on my helmet)* Video?
@@ -289,6 +289,64 @@ The food hall was open, but there was an extremely long line, which to be honest
   <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1768812558/DJI_20251203123903_0078_D_converted_tuz0s1.mp4" type="video/mp4">
 </video>
 
+### Rameshwaram
+
+Leaving Madurai around 1:15 PM, I was on my way to Rameshwaram, following the Vaigai River along NH 87. 173 kms, 3 hours (realistically 2, come on, its me we're talking about). With a goal in mind of watching the sunset from Rameshwaram, my mind was made. Drive like a bullet. And that's what I did. Crossed by Manamadurai and stopped at a flyover with a singular railway track passing beneath it, and boy did it look _mesmerizing_ &nbsp;from above. Toothless really outdid himself here:
+
+<div class="one-one-grid">
+  <div>
+    <img src="/v1768983535/DJI_20251203134655_0095_D_compressed_kqspii.webp" />
+  </div>
+  <div>
+    <img src="/v1768983531/DJI_20251203134715_0096_D_compressed_ggepni.webp" />
+  </div>
+</div>
+
+The pleasant cloudy weather, the terrific greenery, smooth roads, oh I could go on for FOREVER. 180 kms was too less. I was flying and I loved it. Every fibre of my being was happy. And free. Like absolutely nothing else mattered in this world. Just me, the wind, Murphy and wherever the road decides to take me today:
+
+![](/v1768983547/DJI_20251203134611_0092_D_compressed_fxlu4v.webp)
+
+<div class="one-one-grid">
+  <div>
+    With bollywood bangers from the 2010-2020 era playing in my helmet, I cruised my way to Rameshwaram and found myself on the iconic Pamban bridge around 3:10 PM. And boy was I in awe of the sea, the engineering and the calmness of the place. Standing smack dab in the middle of the bridge, I parked Murphy on the left, went up on the side-walk, removed my helmet and just stood there was a good 10 minutes before even attempting to move any muscle in my body. The town up ahead was a pilgrimage town to me, but not in a way you might be thinking.
+  </div>
+  <div>
+    <img src="/v1768984657/IMG_9736_compressed_wukc4w.webp" />
+  </div>
+</div>
+
+Toothless was tired, but I had to let him experience the cool sea breeze caressing my face, for himself. 300 feet above sea level, his tiredness evaporated and I finally felt confident about his athletic abililties, putting him in sports mode, for the first time after the disastrous incident just outside of Hyderabad. Rameshwaram, at first glance, was more beautiful than what I'd expected it to be:
+
+<div class="one-one-grid">
+  <div>
+    <img src="/v1769009423/DJI_20251203151803_0098_D_compressed_msnqce.webp" />
+  </div>
+  <div>
+    <img src="/v1769009422/DJI_20251203152230_0108_D_compressed_ojfwjn.webp" />
+  </div>
+</div>
+
+<div class="one-one-grid">
+  <div>
+    <img src="/v1769009420/DJI_20251203152114_0104_D_compressed_yuc4pe.webp" />
+  </div>
+  <div>
+    <img src="/v1769009423/DJI_20251203151925_0101_D_compressed_yjelfh.webp" />
+  </div>
+</div>
+
+Oh, you thought I was done and Toothless was satisfied with _just_ photos? That I'd ignore the **obvious** train passing through the Pamban bridge? A shot like that? Think again
+
+<video autoplay loop muted playsinline style="width: 100%; height: auto; margin-top: 0.5rem;">
+  <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1769009968/DJI_20251203152128_0106_D_converted_fnhuut.mp4" type="video/mp4">
+</video>
+
+<video autoplay loop muted playsinline style="width: 100%; height: auto; margin-top: 0.5rem;">
+  <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1769009967/DJI_20251203152329_0109_D_converted_lbtykt.mp4" type="video/mp4">
+</video>
+
+After a good half hour of just standing on the bridge, I made my way towards the Ramanathaswamy temple, and standing literally on the crossroads, I made a reservation in one of the hotels nearby. Took me a good 15 minutes to find the hotel I had made a reservation in. Turned out it was right across the street, opposite to where Google Maps claimed it to be. I checked-in into a pretty shabby room, should've read the Google Maps reviews before doing the reservation, but I had litte to no energy left and was in desperate need of a shower.
+
 > **Stay Information**
 >
 > - **Name**: MKR Residency
@@ -297,6 +355,56 @@ The food hall was open, but there was an extremely long line, which to be honest
 > - **Accomodation Type**: Non AC Double Room
 > - **Night Stayed**: 1
 {: .prompt-info }
+
+And that's what I did. Kept my pants and jacket to dry, and took a cold shower, simply to get my senses back to their potential. Coming out of the room, I asked people where all I could go to see the sunset. True, Dhanushkodi was on my map, but I wanted to visit it in the morning, as the sunrise is pretty good fom there, or so I'd heard. So, I was not planning on going there, in the evening too. Maybe a different location? But then I met a guy at the reception, _Muthu_, who was also a tourist himself and convinced me that the sunset from there's pretty stunning as well. Fully in the mood to hit the road again, I asked him if he wanted to join me, pointing towards my bike, and he surprisingly accepted.
+
+### Dhanushkodi
+
+And off we went. To the end of National Highway 87. Towards Dhanushkodi. Fun fact, Dhanushkodi isn't the tip which you'd expect, it's actually a town around 5 kms from the actual tip of India, Arichal Munai. And the way I found out was pretty interesting. I expected Dhanushkodi to be the land's end, the place where the national emblem statue is located. But then I saw something unbelieveable. On a highway road sign, it was written:
+
+- Dhanushkodi: 16km
+- Arichal Munai: 20km
+
+The first thought in my mind went to the only logical conclusion: "Would I have to drive through water to reach there?!". And then reasoning kicked in when I saw the Dhanushkodi lighthouse. To be fair, without all that gear, and driving at 120 kmph, with just a helmet, the sand from the nearby beaches were piercing my skin since I had shorts on. Never again, I thought to myself. Stupidity has its limits, and I had just hit one. Eventually, within 10 minutes, we were there:
+
+![](/v1769016636/IMG_9742_compressed_zzwhve.webp)
+
+<div class="one-one-grid">
+  <div>
+    <img src="/v1769016635/IMG_9745_compressed_y7wdbe.webp" />
+  </div>
+  <div>
+    <img src="/v1769016634/IMG_9749_compressed_vupueh.webp" />
+  </div>
+</div>
+
+<div class="one-two-grid">
+  <div>
+    <img src="/v1769016635/IMG_9766_compressed_xftulq.webp" />
+  </div>
+  <div>
+    The sunset? Majestic. The vibes? Awesome. The views? Serene. The crowd? Too much for my liking. Atleast half a dozen tempos, just blocking the way, and the view. Still, we reached there anyway, parked murphy, and took a look around. As the sunset was nearing and I wanted to get Toothless up and get plenty of shots.<br /><br />
+
+    Although there were police around, I decided to ignore them and Toothless took flight anyways. It was getting late, and the police were telling people to go back. With <i>lathis</i>. Eventually, they caught up to me and Muthu and saw me with a drone controller. They were pretty quick to tell me off that this is a navy-protected zone since Sri-Lanka is pretty close by. Since I wasn't able to converse in Tamil, things got a little difficult.
+  </div>
+</div>
+
+This wasn't the first time I dealt with police about Toothless, and sure as hell, wasn't about to be the last. Now, I'm about to drop some _elite_ knowledge to you. Whenever you're in situations like this, use a trick, which I like to call the "careless pretty girl" attitude. Act dumb, and smile. This causes the person in front to lower their guard, thinking you're not a threat and can be handled, uhh, easily. Acting this way gives you an unfair advantage over your opponent as your thinking capacity can now be used against a person whose shields are now down.
+
+Enter the man, the myth, the legend, _Muthu_. Dude swopped in, charmed the policemen with fluent Tamil (at least to my ears), and the police said to bring the drone down, pack it up and leave, in a rather gentle voice. I was pleasantly surprised, to say the least. I brought toothless down and we clicked a bunch of photos, and eventually say the police leave in autos too. Seeing no policemen around, I went to Muthu and asked him if Toothless could fly again. He gave me a grin and said why not. And up he went, soaring into the last skies of India, once again and got in some _goooood_ shots.
+
+<div class="one-one-grid">
+  <div>
+    <img src="/v1769016634/IMG_9784_compressed_gs6j5f.webp" />
+  </div>
+  <div>
+    <img src="/v1769016636/IMG_9793_compressed_bfwun7.webp" />
+  </div>
+</div>
+
+On the way back, we decided to stop by the Kodanda Ramar Temple as the last rays of the sun came shining down upon us. I got Muthu a coconut on me and the two of us roamed around a little over there, watching darkness creep in, and the rays leaving the earth one by one. On the way back to the hotel, he and I both agreed to stop over at a crowded restaurant to have some dinner and by that time, I was in such a hungry state, I was able to gulp down a masala dosa and rawa dosa, and still had room for some vadas. This was also the first time I was eating food on a banana leaf. Ever. Muthu helped me out here as well. You don't pour stuff directly over it. Unlike a conventional plate, you sprinkle some water on it using your hands, clean it up and then have chutney on it. New, but interesting information to me. I remembered it going forward.
+
+Having all this food naturally got me feeling tired and sleepy. Somehow, I was able to drive both of us back to the hotel (which was not that far from the restaurant), we bid each other good night, I entered my room, put everything to charge and slept. Like a baby. Tomorrow was the day of pilgrimage, after all.
 
 ## Day 6: Rameshwaram to Kanyakumari (Dec 4)
 
