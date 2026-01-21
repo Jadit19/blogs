@@ -60,3 +60,9 @@
         grid-template-columns: 1fr;
     }
 }
+
+article {
+    img, video {
+        border-radius: 10px;
+    }
+}
