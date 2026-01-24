@@ -3,7 +3,7 @@ title: "23 Before 23: At India's End"
 description: Touching the tip of India. Twice
 author: adit
 date: 2025-12-05 23:11:00 +0530
-tags: ['23 before 23', bike, chennai, puducherry, madurai, rameshwaram, dhanushkodi, "theri kudu", kanyakumari, varkala]
+tags: ['23 before 23', bike, chennai, puducherry, madurai, rameshwaram, dhanushkodi, "theri kaadu", kanyakumari, varkala]
 image:
   path: /v1768737108/IMG_9915_compressed_ra7ipo.webp
 ---
@@ -407,6 +407,125 @@ On the way back, we decided to stop by the Kodanda Ramar Temple as the last rays
 Having all this food naturally got me feeling tired and sleepy. Somehow, I was able to drive both of us back to the hotel (which was not that far from the restaurant), we bid each other good night, I entered my room, put everything to charge and slept. Like a baby. Tomorrow was the day of pilgrimage, after all.
 
 ## Day 6: Rameshwaram to Kanyakumari (Dec 4)
+
+### Footsteps of Mythology
+
+Woke up at 4 AM (thanks alarm), quickly decided to sleep for some more time. Woke up again at 6 AM and stayed in bed for half-hour before deciding to finally make my way to Dhanushkodi, again, to see the sunrise. This time, I had a plan in mind, as far as the shots I wanted to take were concerned. Since I'd be leaving so early, I was not expecting any traffic on NH 87, on my way towards Dhankushkodi, and I was not disappointed, getting the follow shot I so desperately wanted:
+
+<video
+    autoplay loop muted playsinline style="width: 100%; height: auto; margin-top: 0.5rem;">
+    <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1769191734/DJI_20251204062602_0120_D_converted_ynnl1q.mp4" type="video/mp4">
+</video>
+
+The swan crossing the frame at one point was the cherry on the cake. Took me more than 10 takes to get a single one right, I'll be blatantly honest. In the beginning, when I was flirting with Toothless' object-tracking mode, I swear to god, I drove so slow, a fully-loaded auto overtook me. With ease. The driver took my confidence with him. Packing Toothless, I made my mission to reach the Ashoka statue before him, overtaking him in the process, which I did, without much effort, thanks to Murphy <3.
+
+<div class="one-one-grid">
+  <div>
+    <img src="/v1769191644/DJI_20251204070027_0126_D_compressed_yj0ebw.webp" />
+  </div>
+  <div>
+    <img src="/v1769191642/DJI_20251204070129_0128_D_compressed_aewobn.webp" />
+  </div>
+</div>
+
+<div class="one-two-grid">
+  <div>
+    <img src="/v1769191640/DJI_20251204070432_0130_D_compressed_cwvllj.webp" />
+  </div>
+  <div>
+    Let's get this out of the way. Yes, according to mythology, this was the place where Ram Setu's construction was started. And it is rumoured that if you write "राम" on a stone, and throw it in the water, it'll float. As a life-long student of science, I had to test this hypothesis to see if it's true. For exactly this purpose, I had brought a marker with me, from Chennai. Picking up a random stone, I wrote "राम" on it and threw it in the water just within eyesight. It sank, and with it, my belief in the mythology being real, reinforcing my atheist beliefs. Don't get me wrong. As a story, it is truly a wonderful epic. But do I believe in the events actually taking place in the past? Absolutely not. To re-iterate what I said before, this is solely my personal opinion and you're free to disagree with me. <br /><br />
+
+    Anyways, Toothless took flight and finally took shots of India's first tip in my journey. The last picture truly illustrates why exactly this point is called the "Last Point of India". Planning your shots ahead does pay off, doesn't it <i>ladies</i>? I didn't waste any of my precious time, did I? :)
+  </div>
+</div>
+
+Making my way back, as I unlocked my helmet, I saw a dude rocking an Interceptor GT650, and boy did it look good in blood red. The guy had a DJI Mini 4 pro with him too, and by the accent, I figured he was from Australia. Turns out, Tim was from New Zealand. In my defense, both accents sound pretty similar. We chatted for a while having some chai, and learnt a lot about New Zealand and Tim legitimately showed me a bunch of photos he'd taken while on treks there and let me tell you this. Calling them spectacular? I'd be doing the photos a BIG dis-service. He'd come here for a change of scenery since his it was snowing at his howetowm down south. Paying for his chai, I left for Rameshwaram.
+
+Little did I know that I'd soon be interrupted by a tiny little hut just on the right side of the road, out of the corner of my eye. And I absolutely stand by my decision to take the detour. Costed me a good hour but oh so worth it.
+
+<div class="one-one-grid">
+  <div>
+    <img src="/v1769194115/IMG_9818_compressed_znmbf5.webp" />
+    <img src="/v1769194094/DJI_20251204073842_0149_D_compressed_n6zu2k.webp" />
+    <img src="/v1769194340/IMG_9836_compressed_dw6ocn.webp" />
+    <img src="/v1769194105/IMG_9853_compressed_ko1osw.webp" />
+  </div>
+  <div>
+    <img src="/v1769194094/DJI_20251204074201_0154_D_compressed_tgamta.webp" />
+    <img src="/v1769194098/IMG_9829_compressed_c2sthi.webp" />
+    <img src="/v1769194094/DJI_20251204074221_0155_D_compressed_bfj6cn.webp" />
+    <img src="/v1769194106/IMG_9856_compressed_lepd9u.webp" />
+  </div>
+</div>
+
+"Open Birds and Mangrove Interpretation Center" is what was written at the enterance. With no-one at the entrace counter, I sneaked myself in the walkway and made it through to the end. And the view? Oh my god. Breath-taking. With the sunlight being dispersed by the clouds and waves crashing beneath me, I felt at peace. Truly. Had to share this with people. Called up Masi and then Fufaji, let them guess where I was, letting them take a peek at the scenery in front of me, and made them promise me that they'd not tell this to my mom. Yes, my mom wasn't aware I was on a solo unplanned bike trip across India. Returning to the main road, I saw Murphy, patiently waiting for me to take her with me. Yes, I admit, I was in love with her, my precious darling, my bike, Murphy.
+
+### House of Kalam
+
+<div class="one-one-grid">
+  <div>
+    As I head back to the town of Rameshwaram, I made my way to the primary reason I was here. For my pilgrimage. To science. To the home of the only politician I would've voted for blindly, the person who ignited my love for rocketry, the "Missile Man of India", the 11<sup>th</sup> President of India, Dr. A. P. J. Abdul Kalam.<br/><br/>
+
+    Removing my shoes and socks outside (wouldn't be spoiling such a holy place), I climbed up the stairs. The home had been converted to a museum now, preserving the bedroom of Dr. Kalam on the right and the main exhibition on the left end of the first floor. No entrace fee, because why would you? The man was a gem. And if you needed any more proofs of his excellence, the awards (both national and international) he'd been honoured with were on display:
+
+    <ul>
+      <li>Padma Bhushan (1981)</li>
+      <li>Padma Vibhushan (1990)</li>
+      <li>Bharat Ratna (1997)</li>
+    </ul>
+  </div>
+  <div>
+    <img src="/v1769195364/IMG_9863_compressed_o8lnk7.webp" />
+  </div>
+</div>
+
+The man has even an award named after him by the Tamil Nadu State Government (I'm not lying, look it up!). Entire walls were covered with his contributions to the country, not just scientifically or academically, but politically too. Anyone could've seen the excitement in my eyes as I read every single word written there like "Bhagwad Gita". Happily satisfied, I moved up another flight of stairs, only to be disappointed that the second floor just had a shop selling souvenirs and other stuff. Making my way down quickly and cliking this picture, I returned to the hotel and put my electronics to charge as I wouldn't be needing them for where I was headed next. For context, here is what the one-star hotel room looked like:
+
+<div class="one-one-grid">
+  <div>
+    <img src="/v1769232769/IMG_9864_compressed_e0zlpx.webp" />
+  </div>
+  <div>
+    <img src="/v1769233366/IMG_9865_compressed_mnhbvj.webp" />
+  </div>
+</div>
+
+### Ramanathaswamy Temple
+
+The original plan was to wake up at 4, and go visit the temple. The first part was achieved, the latter was not. Anyways, I made it to the temple, on foot, left my slippers with the storage vendor, and went inside to get an express darshan ticket (₹200). Oddly enough, I saw only guys, wearning black dhoti and carrying a towel with them, from ages 8 to 80. Being stunned at the architectural marvel would be an understatement:
+
+<div class="one-one-grid">
+  <div>
+    <img src="/v1769233011/IMG_9876_compressed_sqazyi.webp" />
+  </div>
+  <div>
+    <img src="/v1769232992/IMG_9881_compressed_y9lnc7.webp" />
+  </div>
+</div>
+
+<div class="one-one-grid">
+  <div>
+    <img src="/v1769233018/IMG_9871_compressed_tjy2f4.webp" />
+  </div>
+  <div>
+    <img src="/v1769232994/IMG_9882_compressed_bdxmeh.webp" />
+  </div>
+</div>
+
+<div class="one-one-grid">
+  <div>
+    <img src="/v1769233023/IMG_9889_compressed_qwejbt.webp" />
+  </div>
+  <div>
+    <img src="/v1769233021/IMG_9891_compressed_ykfers.webp" />
+  </div>
+</div>
+
+The elegant architecture was all my eyes could see and admire, thinking about how people from so long ago were able to make this with stone tools, with such daunting precision. The entrace to the temple was covered with stalls selling everything from sea shells to plastic toys for worshippers and tourists to buy. At a ridiculously expensive price, let me add this. Moving onto the express darshan line, I offered my prayers and prasad, got another tika and a laddu that got gobbled up real quick.
+
+Coming out of the temple, my stomach was growling. Stopping at a nearby family restaurant, and ordering an idli-vada plate, my hunger was satisfied. Reaching my hotel, I was shocked to find out that the owner had turned off the electricity supply to the room assuming there was no one inside. The electronics that I'd hoped would be charged by now, were still at the same battery percentage as what I'd left them at. I was enraged and furious. Quickly collecting myself, I put everything to charge while I packed my pags, took backups and got myself ready, a mere 30 minutes, but it'll have to do. Yeah, this hotel was dogshit terrible. I wouldn't recommend it to my worst enemy, which at the time, was the hotel owner and manager. As I was leaving, the manager had the audacity to ask for a tip using the most universal signal, the shuffling of fingers. Forcing my mouth into a smile, I folded my hands and moved my head from side to side. No point in wasting my energy on a dumb fuck who'd ruin my mood even further.
+
+Blood boiling, I made my way back to Murphy, strapped on the bagpack and tank-bag, and was on the road, shouting curses in my head at the manager of the hotel. Truly, one of the worst stay experiences of my entire life.
 
 > **Stay Information**
 >
