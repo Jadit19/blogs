@@ -765,12 +765,12 @@ For the people who value aesthetic pictures more than genuine experiences and ra
 
 <div class="one-one-grid">
   <div>
-    <img src="https://res.cloudinary.com/dthsy1k8g/image/upload/v1769406503/IMG_0140_compressed_dzfey3.webp" />
-    <img src="https://res.cloudinary.com/dthsy1k8g/image/upload/v1769406505/IMG_0144_compressed_t63rl0.webp" />
+    <img src="/v1769406503/IMG_0140_compressed_dzfey3.webp" />
+    <img src="/v1769406505/IMG_0144_compressed_t63rl0.webp" />
   </div>
   <div>
-    <img src="https://res.cloudinary.com/dthsy1k8g/image/upload/v1769406503/IMG_0150_compressed_ssevuc.webp" />
-    <img src="https://res.cloudinary.com/dthsy1k8g/image/upload/v1769406485/IMG_0152_compressed_h46rlz.webp" />
+    <img src="/v1769406503/IMG_0150_compressed_ssevuc.webp" />
+    <img src="/v1769406485/IMG_0152_compressed_h46rlz.webp" />
   </div>
 </div>
 
@@ -784,10 +784,10 @@ It was 3:15 PM, with the Toddy place 20 minutes away, and the Kayaking place a f
 
 <div class="two-one-grid">
   <div>
-    <img src="https://res.cloudinary.com/dthsy1k8g/image/upload/v1769407883/IMG_0160_compressed_be3ur2.webp" />
+    <img src="/v1769407883/IMG_0160_compressed_be3ur2.webp" />
   </div>
   <div>
-    <img src="https://res.cloudinary.com/dthsy1k8g/image/upload/v1769407360/IMG_0161_compressed_ll2dae.webp" />
+    <img src="/v1769407360/IMG_0161_compressed_ll2dae.webp" />
   </div>
 </div>
 

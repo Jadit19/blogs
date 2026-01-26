@@ -4,6 +4,8 @@ description: Good vibes, lazing around & amazing company
 author: adit
 date: 2025-12-08 14:27:00 +0530
 tags: ['23 before 23', bike, varkala, surfing, kayaking]
+image:
+  path: /v1769409563/IMG_0454_compressed_ekvwkx.webp
 ---
 
 ## Day 7: Varkala (Dec 5)
