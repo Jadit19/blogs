@@ -65,4 +65,10 @@ article {
     img, video {
         border-radius: 10px;
     }
+
+    video {
+        width: 100%;
+        height: auto;
+        margin-top: 0.5rem;
+    }
 }
