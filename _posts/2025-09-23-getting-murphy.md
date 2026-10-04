@@ -12,9 +12,9 @@ image:
 
 Since this is a blog, I'll be completely honest. I have loved bikes since practically always. Just didn't have the money or need for it growing up. Hence, I always thought they're something great to be looked at and admired. From afar.
 
-But, you should know, I've got a terrible friend circle, one of the dumb one being a guy called Riktesh, who I met in my final year of college (he lived 4 rooms away in the hostel). This MF called me up on a completely random weekend, July 20, I think and told me the got himself a bike. A Royal Enfield Hunter 350, to be precise. And THEN he had the audacity to tell me that he'll be doing the booking for the top model of it tomorrow and recommended me a Royal Enfield Guerilla 450 Piex Bronze model (yes, I have proof).
+But, you should know, I've got a terrible friend circle, one of the dumb one being a guy called Riktesh, who I met in my final year of college (he lived 4 rooms away in the hostel). This MF called me up on a completely random weekend, July 20, I think and told me that he got himself a bike. A Royal Enfield Hunter 350, to be precise. And THEN he had the audacity to tell me that he'll be doing the booking for the top model of it tomorrow and recommended me a Royal Enfield Guerilla 450 Piex Bronze model (yes, I have proof).
 
-This, combined with the fact that a few more close friends of mine we either planning to buy, or had already bought, vehicles (yes, one dude even bought a damn car!), it got me thinking that yeah, maybe buying myself a bike could be possible. And viable too.
+This, combined with the fact that a few more close friends of mine were either planning to buy, or had already bought, vehicles (yes, one dude even bought a damn car!), it got me thinking that yeah, maybe buying myself a bike could be possible. And viable too.
 
 ## Tragedy
 
@@ -46,7 +46,7 @@ Yep, this *is* the big one. Since the beginning of September, I had been feeling
 
 I was so dead set on getting my bike before Sept 22 that I went to the [dealership](https://dealers.royalenfield.com/delhi/new-delhi/badarpur-anjuli-automobiles-private-limited-9110120070) with my uncle, **with the canula attached to my left hand**. We decided on the model, but Piex Bronze wasn't available, hence the Smoke Silver variant, that I've come to love even more than Piex Bronze. Did the payment, chose the accessories and my uncle did the test drive.
 
-Why did my uncle did the test drive and not me? Good question. I did not have a driving license, yet and I also didn't know how to drive a bike, let alone one this heavy.
+Why did my uncle do the test drive and not me? Good question. I did not have a driving license, yet and I also didn't know how to drive a bike, let alone one this heavy.
 
 ## Love at first sight
 
@@ -58,7 +58,7 @@ On the beautiful evening of Sept 21, my phone decided that it was about time tha
   <div>
     As soon as I reached the dealership, I saw her, my first love, no-one had to tell me. I was naturally gravitated towards her. My object of desire for so long, finally in front of my eyes, I couldn't resist not taking my eyes off of her. Didn't want to.<br/><br/>
 
-    My uncle came too and my sister and mom surprised me by coming there too. With my repaired phone! I completed the documentation, beaurocracy, and other stuff and finally got to get a GOOD feel of her, named her "Murphy" (after the <a href="https://en.wikipedia.org/wiki/Murphy%27s_law">law</a>, and the <a href="https://www.imdb.com/title/tt0816692/">Interstellar</a> character too)<br/><br/>
+    My uncle came too and my sister and mom surprised me by coming there too. With my repaired phone! I completed the documentation, bureaucracy, and other stuff and finally got to get a GOOD feel of her, named her "Murphy" (after the <a href="https://en.wikipedia.org/wiki/Murphy%27s_law">law</a>, and the <a href="https://www.imdb.com/title/tt0816692/">Interstellar</a> character too)<br/><br/>
 
     My uncle asked the guys over at the dealership to get the test bike so that I could get some bike riding experience before getting on my own bike. That's what we did for half an hour behind the dealership in a large empty ground.
   </div>

@@ -22,7 +22,7 @@ With no destination set in mind, I simply wanted to roam around. After about 2 k
 
 Unfortunately, the Marina Beach was closed due to the recent cyclone, so I couldn't explore it. Plus the sunrise I was planning to see, was clouded by, you guessed it, the damn clouds. Disappointed but undeterred, I decided to head towards the central railway station. I kinda have a rule, well not a rule per-se, a general thing that I take a photo of me with the station board of as many places as possible, if I'm able to. So, I parked Murphy outside the railway station, rain still falling, and went in like a complete hobo.
 
-The station is quite old, but HUGE neverthless. I wandered around, taking in the architecture and the hustle and bustle of the place, observing the crowds of people coming and going. Most of them were at the station entrace / exits, standing, without umbrella, waiting for someone to come and get them. I found a spot near the platform, where I could see the trains coming and going. The sound of the trains and the announcements over the loudspeakers created a symphony of sounds that was both chaotic and mesmerizing. Spotted a double-decker sitting train bogey too, the first I'd seen in India. I walked till the end, where I got the shot I wanted and headed back to Murphy in the parking, and eventually made my way back to the hotel.
+The station is quite old, but HUGE nevertheless. I wandered around, taking in the architecture and the hustle and bustle of the place, observing the crowds of people coming and going. Most of them were at the station entrance / exits, standing, without umbrella, waiting for someone to come and get them. I found a spot near the platform, where I could see the trains coming and going. The sound of the trains and the announcements over the loudspeakers created a symphony of sounds that was both chaotic and mesmerizing. Spotted a double-decker sitting train bogey too, the first I'd seen in India. I walked till the end, where I got the shot I wanted and headed back to Murphy in the parking, and eventually made my way back to the hotel.
 
 ![](/IMG_9473.webp)
 
@@ -81,14 +81,14 @@ Made my way down through Cheyyur, by 11:45 AM. I was getting a bit hungry now. O
   </div>
 </div>
 
-Ordered a burger, with fries on the side and paired it with a strawberry milk shake. There is no way to describe it better than mouth-watering. No exaggeration, it was *that* good. Took a good 40-45 mins just enjoying the food. Met a couple travelling from Puducherry to Delhi on a rented scooty. Hit up a conversation with them and turned out they were from Mumbai. We chatted for a while and turned out that Cyclone Ditwah had interrupted their travel plans too. When they learnt that I was heading towards Puducherry, they recommended me to get myself a stay near White Town, and if possible, visit Auroville, a small settling ner Puducherry. Keeping their recommendation in mind, I booked my stay, again, no hostel, a single room again, because of the rains and reached there.
+Ordered a burger, with fries on the side and paired it with a strawberry milk shake. There is no way to describe it better than mouth-watering. No exaggeration, it was *that* good. Took a good 40-45 mins just enjoying the food. Met a couple travelling from Puducherry to Delhi on a rented scooty. Hit up a conversation with them and turned out they were from Mumbai. We chatted for a while and turned out that Cyclone Ditwah had interrupted their travel plans too. When they learnt that I was heading towards Puducherry, they recommended me to get myself a stay near White Town, and if possible, visit Auroville, a small settling near Puducherry. Keeping their recommendation in mind, I booked my stay, again, no hostel, a single room again, because of the rains and reached there.
 
 > **Stay Information**
 >
 > - **Name**: Bouvana Residency
 > - **Location**: [154, Laporte St, opp. Ratna Theatre, Subbarayapillai Chathiram, Puducherry, 605001](https://maps.app.goo.gl/J8ufyaCVmzdvfMF66)
 > - **Price**: ₹1223
-> - **Accomodation Type**: Standard Double Room
+> - **Accommodation Type**: Standard Double Room
 > - **Night Stayed**: 1
 {: .prompt-info }
 
@@ -109,7 +109,7 @@ Oh and before I talk about Puducherry, here's a shot Toothless took on the Palar
 
 Talking a quick shower, I headed downstairs, grabbed Murphy and went to see the beach. The drizzle was dying down and I could almost see the sun. The first thing I did? Go directly to the beach, of course. Puducherry beach is quite different from the other beaches I've seen so far. The sand is darker, and the water is rougher. The waves were crashing against the shore, creating a soothing sound. I walked along the beach, taking in the sights and sounds of the sea. The cool breeze and the salty air made for a refreshing experience. Keep in mind, this was the first beach I saw up close on this trip. First of many.
 
-Yeah, White Town is pretty much an Instagram-dependant aesthetic-only wannabe-influencer Indian girl's wet dream. There's no better way to describe it. The locals? They're amazing, The way they've maintained it speakes volumes. Bihar or UP could never. 
+Yeah, White Town is pretty much an Instagram-dependent aesthetic-only wannabe-influencer Indian girl's wet dream. There's no better way to describe it. The locals? They're amazing, The way they've maintained it speaks volumes. Bihar or UP could never. 
 
 <div class="one-one-grid">
   <div>
@@ -165,7 +165,7 @@ The rest of the day, and the night, I spent around roaming the white town. On fo
   </div>
 </div>
 
-Oh, btw, I did go to a temple over there, Arulmigu Manakula Vinayagar Devasthanam. Why visit a temple when you're an atheist? Doen't hurt me doing so, hence, why not? Got myself a white tika while I was at it. Thought it looked cool, so here it is:
+Oh, btw, I did go to a temple over there, Arulmigu Manakula Vinayagar Devasthanam. Why visit a temple when you're an atheist? Doesn't hurt me doing so, hence, why not? Got myself a white tika while I was at it. Thought it looked cool, so here it is:
 
 <div class="one-one-grid">
   <div>
@@ -214,7 +214,7 @@ Yeah, I cannot stop gushing about how terrific the highways of Tamil Nadu were. 
     <source src="https://res.cloudinary.com/axisrarn/video/upload/GX010091.mp4" type="video/mp4">
 </video>
 
-Madurai was about 5 hours, 330 kms away from Puducherry. And there was just one place I wanted to visit over there, you guessed it, the Meenakshi-Amma Temple. After about another hour of drive, around 8 AM, I was clear of Tiruchirappalli, when I decided to pull into a dhaba, where I got myself some coffee, chips and biscuits. I know, not a healthy start to the day, but I needed something in my body for today. A couple minutes later, 3 guys sat around the table I was on. The closest to me, Vijay, stuck up a conversation with me, that went something like this:
+Madurai was about 5 hours, 330 kms away from Puducherry. And there was just one place I wanted to visit over there, you guessed it, the Meenakshi-Amma Temple. After about another hour of drive, around 8 AM, I was clear of Tiruchirappalli, when I decided to pull into a dhaba, where I got myself some coffee, chips and biscuits. I know, not a healthy start to the day, but I needed something in my body for today. A couple minutes later, 3 guys sat around the table I was on. The closest to me, Vijay, struck up a conversation with me, that went something like this:
 
 - **Vijay**: *(pointing to Murphy)* Bike you?
 - **Me**: *(smiling)* Yes *(Nodding my head)*
@@ -238,7 +238,7 @@ Madurai was about 5 hours, 330 kms away from Puducherry. And there was just one 
   </div>
 </div>
 
-The drive was unbeliveably good, I kid you not, ladies and gentlemen. My award for the best and well maintained highways in the entire country of India goes to Tamil Nadu, without doubt. No potholes, well kept curbs, less to none traffic, rule-respecting drivers and generally helpful people. The lush greenery that surrounded me isn't something that I'll be forgetting anytime soon:
+The drive was unbelievably good, I kid you not, ladies and gentlemen. My award for the best and well maintained highways in the entire country of India goes to Tamil Nadu, without doubt. No potholes, well kept curbs, less to none traffic, rule-respecting drivers and generally helpful people. The lush greenery that surrounded me isn't something that I'll be forgetting anytime soon:
 
 <div class="one-one-grid">
   <div>
@@ -260,24 +260,24 @@ The drive was unbeliveably good, I kid you not, ladies and gentlemen. My award f
 
 ### Meenakshi-Amma Temple
 
-Driving for a couple more hours, I found myself in Madurai, making my way to The Temple. Although, I gotta admit, the condition of the roads inside the city? Not as good as the highways. The city felt like any other Indian city, over-crowded, small streets, the people were considerably better than an average North Indian, without doubt. Parked Murphy in the parking, leaving my bagpack and helmet tied to it and was in the Temple premises by 10:30 AM.
+Driving for a couple more hours, I found myself in Madurai, making my way to The Temple. Although, I gotta admit, the condition of the roads inside the city? Not as good as the highways. The city felt like any other Indian city, over-crowded, small streets, the people were considerably better than an average North Indian, without doubt. Parked Murphy in the parking, leaving my backpack and helmet tied to it and was in the Temple premises by 10:30 AM.
 
-Fun fact, my work laptop was always in my bagpack since it was 14 inches, I couldn't fit it in my tank-bag and it would've been unwise to do so since I practically carried my tank-bag everywhere with me. Couldn't take any damage on the laptop, so, had to guard it with layers of insulation to protect it in case of a crash.
+Fun fact, my work laptop was always in my backpack since it was 14 inches, I couldn't fit it in my tank-bag and it would've been unwise to do so since I practically carried my tank-bag everywhere with me. Couldn't take any damage on the laptop, so, had to guard it with layers of insulation to protect it in case of a crash.
 
 One of the main reasons I wanted to be there in the morning, apart from the fact that you gotta pray in the morning, not afternoon or evening, was that there was free lunch being served at 11 AM, and the temple closes, for aarti or something in the afternoon so I'd have to wait for a couple hours in Madurai to go inside the temple again at 3 PM, but that would mess up my plans of reaching Rameshwaram by sunset.
 
 Buying some offerings from a local vendor and a couple *malas* for the two gods inside (as recommended by the vendor), I made my way to the East Raja Tower after depositing everything I had on me (incl my riding jacket, shoes & socks, phone and tank-bag which had pretty much everything of value I had), letting me go inside with just the clothes I had on me, my glasses and my wallet. Security was pretty tight, which is expected, since the temple is quite popular.
 
-Going in, the first decision I made immediately was that I needed an express pass of ₹100 (₹50 each for both the dieties), since I was on a time crunch. Took me about an hour inside, since they had to stop the viewing inside for a short aarti of 15 minutes. Stuck up a conversation in the queue, with a couple from Gurugram, who had quite an active kid. After the darshan of both dieties, I got my prasad, and ate it on the way to the room of Thousand Pillars. Its not technically a thousand, more like 980-something, but hey, credit where credit's due. Pure magnificance. Couldn't get a shot of it since cameras were not allowed and I was not paying ₹500 for a "professional photoshoot" done with a Nikon Z50.
+Going in, the first decision I made immediately was that I needed an express pass of ₹100 (₹50 each for both the deities), since I was on a time crunch. Took me about an hour inside, since they had to stop the viewing inside for a short aarti of 15 minutes. Struck up a conversation in the queue, with a couple from Gurugram, who had quite an active kid. After the darshan of both deities, I got my prasad, and ate it on the way to the room of Thousand Pillars. Its not technically a thousand, more like 980-something, but hey, credit where credit's due. Pure magnificence. Couldn't get a shot of it since cameras were not allowed and I was not paying ₹500 for a "professional photoshoot" done with a Nikon Z50.
 
-The food hall was open, but there was an extremely long line, which to be honest, I shoud've accounted for. This would've easily run me over an hour of just waiting and I was not in a mood for that as I was hungry. Very hungry. Made my way out of there, and asked a police uncle for some food recommendations nearby. He pointed me to the restaurant and I ate THE most delicious South Indian thali I've ever had in my entire life over there. For just ₹150. With unlimited servings. Since I was the only customer there at that time, the staff was extra polite and I literally had to tell tham that there's no way I cannot accept or eat more food.
+The food hall was open, but there was an extremely long line, which to be honest, I should've accounted for. This would've easily run me over an hour of just waiting and I was not in a mood for that as I was hungry. Very hungry. Made my way out of there, and asked a police uncle for some food recommendations nearby. He pointed me to the restaurant and I ate THE most delicious South Indian thali I've ever had in my entire life over there. For just ₹150. With unlimited servings. Since I was the only customer there at that time, the staff was extra polite and I literally had to tell them that there's no way I cannot accept or eat more food.
 
 <div class="one-one-grid">
   <div>
     <img src="/IMG_9727.webp" />
   </div>
   <div>
-    Paying the bill, and leaving a 200% tip, I collected my stuff and made my way to the multi-level car parking. Toothless wanted to fly. There are no drones allowed inside the temple premises, so i get to get creative, taking the temple and traffic police, both, info mind. So after procuring a good spot near the parking that would let me depart quickly, I let him spread his wings and take an orbit shot of the Temple
+    Paying the bill, and leaving a 200% tip, I collected my stuff and made my way to the multi-level car parking. Toothless wanted to fly. There are no drones allowed inside the temple premises, so I had to get creative, taking the temple and traffic police, both, into mind. So after procuring a good spot near the parking that would let me depart quickly, I let him spread his wings and take an orbit shot of the Temple
   </div>
 </div>
 
@@ -304,14 +304,14 @@ The pleasant cloudy weather, the terrific greenery, smooth roads, oh I could go 
 
 <div class="one-one-grid">
   <div>
-    With bollywood bangers from the 2010-2020 era playing in my helmet, I cruised my way to Rameshwaram and found myself on the iconic Pamban bridge around 3:10 PM. And boy was I in awe of the sea, the engineering and the calmness of the place. Standing smack dab in the middle of the bridge, I parked Murphy on the left, went up on the side-walk, removed my helmet and just stood there was a good 10 minutes before even attempting to move any muscle in my body. The town up ahead was a pilgrimage town to me, but not in a way you might be thinking.
+    With bollywood bangers from the 2010-2020 era playing in my helmet, I cruised my way to Rameshwaram and found myself on the iconic Pamban bridge around 3:10 PM. And boy was I in awe of the sea, the engineering and the calmness of the place. Standing smack dab in the middle of the bridge, I parked Murphy on the left, went up on the side-walk, removed my helmet and just stood there for a good 10 minutes before even attempting to move any muscle in my body. The town up ahead was a pilgrimage town to me, but not in a way you might be thinking.
   </div>
   <div>
     <img src="/IMG_9736.webp" />
   </div>
 </div>
 
-Toothless was tired, but I had to let him experience the cool sea breeze caressing my face, for himself. 300 feet above sea level, his tiredness evaporated and I finally felt confident about his athletic abililties, putting him in sports mode, for the first time after the disastrous incident just outside of Hyderabad. Rameshwaram, at first glance, was more beautiful than what I'd expected it to be:
+Toothless was tired, but I had to let him experience the cool sea breeze caressing my face, for himself. 300 feet above sea level, his tiredness evaporated and I finally felt confident about his athletic abilities, putting him in sports mode, for the first time after the disastrous incident just outside of Hyderabad. Rameshwaram, at first glance, was more beautiful than what I'd expected it to be:
 
 <div class="one-one-grid">
   <div>
@@ -348,15 +348,15 @@ After a good half hour of just standing on the bridge, I made my way towards the
 > - **Name**: MKR Residency
 > - **Location**: [78P7+89J, Kochi - Madurai - Dhanushkodi Rd, Rameswaram, Tamil Nadu 623526](https://maps.app.goo.gl/WiMoJqtSgUhEUpWZ6)
 > - **Price**: ₹726
-> - **Accomodation Type**: Non AC Double Room
+> - **Accommodation Type**: Non AC Double Room
 > - **Night Stayed**: 1
 {: .prompt-info }
 
-And that's what I did. Kept my pants and jacket to dry, and took a cold shower, simply to get my senses back to their potential. Coming out of the room, I asked people where all I could go to see the sunset. True, Dhanushkodi was on my map, but I wanted to visit it in the morning, as the sunrise is pretty good fom there, or so I'd heard. So, I was not planning on going there, in the evening too. Maybe a different location? But then I met a guy at the reception, _Muthu_, who was also a tourist himself and convinced me that the sunset from there's pretty stunning as well. Fully in the mood to hit the road again, I asked him if he wanted to join me, pointing towards Murphy, and he surprisingly accepted.
+And that's what I did. Kept my pants and jacket to dry, and took a cold shower, simply to get my senses back to their potential. Coming out of the room, I asked people where all I could go to see the sunset. True, Dhanushkodi was on my map, but I wanted to visit it in the morning, as the sunrise is pretty good from there, or so I'd heard. So, I was not planning on going there, in the evening too. Maybe a different location? But then I met a guy at the reception, _Muthu_, who was also a tourist himself and convinced me that the sunset from there's pretty stunning as well. Fully in the mood to hit the road again, I asked him if he wanted to join me, pointing towards Murphy, and he surprisingly accepted.
 
 ### Dhanushkodi
 
-And off we went. To the end of National Highway 87. Towards Dhanushkodi. Fun fact, Dhanushkodi isn't the tip which you'd expect, it's actually a town around 5 kms from the actual tip of India, Arichal Munai. And the way I found out was pretty interesting. I expected Dhanushkodi to be the land's end, the place where the national emblem statue is located. But then I saw something unbelieveable. On a highway road sign, it was written:
+And off we went. To the end of National Highway 87. Towards Dhanushkodi. Fun fact, Dhanushkodi isn't the tip which you'd expect, it's actually a town around 5 kms from the actual tip of India, Arichal Munai. And the way I found out was pretty interesting. I expected Dhanushkodi to be the land's end, the place where the national emblem statue is located. But then I saw something unbelievable. On a highway road sign, it was written:
 
 - Dhanushkodi: 16km
 - Arichal Munai: 20km
@@ -387,7 +387,7 @@ The first thought in my mind went to the only logical conclusion: "Would I have 
 
 This wasn't the first time I dealt with police about Toothless, and sure as hell, wasn't about to be the last. Now, I'm about to drop some _elite_ knowledge to you. Whenever you're in situations like this, use a trick, which I like to call the "careless pretty girl" attitude. Act dumb, and smile. This causes the person in front to lower their guard, thinking you're not a threat and can be handled, uhh, easily. Acting this way gives you an unfair advantage over your opponent as your thinking capacity can now be used against a person whose shields are now down.
 
-Enter the man, the myth, the legend, _Muthu_. Dude swopped in, charmed the policemen with fluent Tamil (at least to my ears), and the police said to bring Toothless down, pack it up and leave, in a rather gentle voice. I was pleasantly surprised, to say the least. I brought toothless down and we clicked a bunch of photos, and eventually say the police leave in autos too. Seeing no policemen around, I went to Muthu and asked him if Toothless could fly again. He gave me a grin and said why not. And up he went, soaring into the last skies of India, once again and got in some _goooood_ shots.
+Enter the man, the myth, the legend, _Muthu_. Dude swooped in, charmed the policemen with fluent Tamil (at least to my ears), and the police said to bring Toothless down, pack it up and leave, in a rather gentle voice. I was pleasantly surprised, to say the least. I brought Toothless down and we clicked a bunch of photos, and eventually saw the police leave in autos too. Seeing no policemen around, I went to Muthu and asked him if Toothless could fly again. He gave me a grin and said why not. And up he went, soaring into the last skies of India, once again and got in some _goooood_ shots.
 
 <div class="one-one-grid">
   <div>
@@ -434,9 +434,9 @@ The swan crossing the frame at one point was the cherry on the cake. Took me mor
   </div>
 </div>
 
-Making my way back, as I unlocked my helmet, I saw a dude rocking an Interceptor GT650, and boy did it look good in blood red. The guy had a DJI Mini 4 pro with him too, and by the accent, I figured he was from Australia. Turns out, Tim was from New Zealand. In my defense, both accents sound pretty similar. We chatted for a while having some chai, and learnt a lot about New Zealand and Tim legitimately showed me a bunch of photos he'd taken while on treks there and let me tell you this. Calling them spectacular? I'd be doing the photos a BIG dis-service. He'd come here for a change of scenery since his it was snowing at his howetowm down south. Paying for his chai, I left for Rameshwaram.
+Making my way back, as I unlocked my helmet, I saw a dude rocking an Interceptor GT650, and boy did it look good in blood red. The guy had a DJI Mini 4 pro with him too, and by the accent, I figured he was from Australia. Turns out, Tim was from New Zealand. In my defense, both accents sound pretty similar. We chatted for a while having some chai, and learnt a lot about New Zealand and Tim legitimately showed me a bunch of photos he'd taken while on treks there and let me tell you this. Calling them spectacular? I'd be doing the photos a BIG dis-service. He'd come here for a change of scenery since it was snowing at his hometown down south. Paying for his chai, I left for Rameshwaram.
 
-Little did I know that I'd soon be interrupted by a tiny little hut just on the right side of the road, out of the corner of my eye. And I absolutely stand by my decision to take the detour. Costed me a good hour but oh so worth it.
+Little did I know that I'd soon be interrupted by a tiny little hut just on the right side of the road, out of the corner of my eye. And I absolutely stand by my decision to take the detour. Cost me a good hour but oh so worth it.
 
 <div class="one-one-grid">
   <div>
@@ -453,7 +453,7 @@ Little did I know that I'd soon be interrupted by a tiny little hut just on the 
   </div>
 </div>
 
-"Open Birds and Mangrove Interpretation Center" is what was written at the enterance. With no-one at the entrace counter, I sneaked myself in the walkway and made it through to the end. And the view? Oh my god. Breath-taking. With the sunlight being dispersed by the clouds and waves crashing beneath me, I felt at peace. Truly. Had to share this with people. Called up Masi and then Fufaji, let them guess where I was, letting them take a peek at the scenery in front of me, and made them promise me that they'd not tell this to my mom. Yes, my mom wasn't aware I was on a solo unplanned bike trip across India. Returning to the main road, I saw Murphy, patiently waiting for me to take her with me. Yes, I admit, I was in love with her, my precious darling, my bike, Murphy.
+"Open Birds and Mangrove Interpretation Center" is what was written at the entrance. With no-one at the entrance counter, I sneaked myself in the walkway and made it through to the end. And the view? Oh my god. Breath-taking. With the sunlight being dispersed by the clouds and waves crashing beneath me, I felt at peace. Truly. Had to share this with people. Called up Masi and then Fufaji, let them guess where I was, letting them take a peek at the scenery in front of me, and made them promise me that they'd not tell this to my mom. Yes, my mom wasn't aware I was on a solo unplanned bike trip across India. Returning to the main road, I saw Murphy, patiently waiting for me to take her with me. Yes, I admit, I was in love with her, my precious darling, my bike, Murphy.
 
 ### House of Kalam
 
@@ -461,7 +461,7 @@ Little did I know that I'd soon be interrupted by a tiny little hut just on the 
   <div>
     As I head back to the town of Rameshwaram, I made my way to the primary reason I was here. For my pilgrimage. To science. To the home of the only politician I would've voted for blindly, the person who ignited my love for rocketry, the "Missile Man of India", the 11<sup>th</sup> President of India, Dr. A. P. J. Abdul Kalam.<br/><br/>
 
-    Removing my shoes and socks outside (wouldn't be spoiling such a holy place), I climbed up the stairs. The home had been converted to a museum now, preserving the bedroom of Dr. Kalam on the right and the main exhibition on the left end of the first floor. No entrace fee, because why would you? The man was a gem. And if you needed any more proofs of his excellence, the awards (both national and international) he'd been honoured with were on display:
+    Removing my shoes and socks outside (wouldn't be spoiling such a holy place), I climbed up the stairs. The home had been converted to a museum now, preserving the bedroom of Dr. Kalam on the right and the main exhibition on the left end of the first floor. No entrance fee, because why would you? The man was a gem. And if you needed any more proofs of his excellence, the awards (both national and international) he'd been honoured with were on display:
 
     <ul>
       <li>Padma Bhushan (1981)</li>
@@ -474,7 +474,7 @@ Little did I know that I'd soon be interrupted by a tiny little hut just on the 
   </div>
 </div>
 
-The man has even an award named after him by the Tamil Nadu State Government (I'm not lying, look it up!). Entire walls were covered with his contributions to the country, not just scientifically or academically, but politically too. Anyone could've seen the excitement in my eyes as I read every single word written there like "Bhagwad Gita". Happily satisfied, I moved up another flight of stairs, only to be disappointed that the second floor just had a shop selling souvenirs and other stuff. Making my way down quickly and cliking this picture, I returned to the hotel and put my electronics to charge as I wouldn't be needing them for where I was headed next. For context, here is what the one-star hotel room looked like:
+The man has even an award named after him by the Tamil Nadu State Government (I'm not lying, look it up!). Entire walls were covered with his contributions to the country, not just scientifically or academically, but politically too. Anyone could've seen the excitement in my eyes as I read every single word written there like "Bhagwad Gita". Happily satisfied, I moved up another flight of stairs, only to be disappointed that the second floor just had a shop selling souvenirs and other stuff. Making my way down quickly and clicking this picture, I returned to the hotel and put my electronics to charge as I wouldn't be needing them for where I was headed next. For context, here is what the one-star hotel room looked like:
 
 <div class="one-one-grid">
   <div>
@@ -487,7 +487,7 @@ The man has even an award named after him by the Tamil Nadu State Government (I'
 
 ### Ramanathaswamy Temple
 
-The original plan was to wake up at 4, and go visit the temple. The first part was achieved, the latter was not. Anyways, I made it to the temple, on foot, left my slippers with the storage vendor, and went inside to get an express darshan ticket (₹200). Oddly enough, I saw only guys, wearning black dhoti and carrying a towel with them, from ages 8 to 80. Being stunned at the architectural marvel would be an understatement:
+The original plan was to wake up at 4, and go visit the temple. The first part was achieved, the latter was not. Anyways, I made it to the temple, on foot, left my slippers with the storage vendor, and went inside to get an express darshan ticket (₹200). Oddly enough, I saw only guys, wearing black dhoti and carrying a towel with them, from ages 8 to 80. Being stunned at the architectural marvel would be an understatement:
 
 <div class="one-one-grid">
   <div>
@@ -516,15 +516,15 @@ The original plan was to wake up at 4, and go visit the temple. The first part w
   </div>
 </div>
 
-The elegant architecture was all my eyes could see and admire, thinking about how people from so long ago were able to make this with stone tools, with such daunting precision. The entrace to the temple was covered with stalls selling everything from sea shells to plastic toys for worshippers and tourists to buy. At a ridiculously expensive price, let me add this. Moving onto the express darshan line, I offered my prayers and prasad, got another tika and a laddu that got gobbled up real quick.
+The elegant architecture was all my eyes could see and admire, thinking about how people from so long ago were able to make this with stone tools, with such daunting precision. The entrance to the temple was covered with stalls selling everything from sea shells to plastic toys for worshippers and tourists to buy. At a ridiculously expensive price, let me add this. Moving onto the express darshan line, I offered my prayers and prasad, got another tika and a laddu that got gobbled up real quick.
 
-Coming out of the temple, my stomach was growling. Stopping at a nearby family restaurant, and ordering an idli-vada plate, my hunger was satisfied. Reaching my hotel, I was shocked to find out that the owner had turned off the electricity supply to the room assuming there was no one inside. The electronics that I'd hoped would be charged by now, were still at the same battery percentage as what I'd left them at. I was enraged and furious. Quickly collecting myself, I put everything to charge while I packed my pags, took backups and got myself ready, a mere 30 minutes, but it'll have to do. Yeah, this hotel was dogshit terrible. I wouldn't recommend it to my worst enemy, which at the time, was the hotel owner and manager. As I was leaving, the manager had the audacity to ask for a tip using the most universal signal, the shuffling of fingers. Forcing my mouth into a smile, I folded my hands and moved my head from side to side. No point in wasting my energy on a dumb fuck who'd ruin my mood even further.
+Coming out of the temple, my stomach was growling. Stopping at a nearby family restaurant, and ordering an idli-vada plate, my hunger was satisfied. Reaching my hotel, I was shocked to find out that the owner had turned off the electricity supply to the room assuming there was no one inside. The electronics that I'd hoped would be charged by now, were still at the same battery percentage as what I'd left them at. I was enraged and furious. Quickly collecting myself, I put everything to charge while I packed my bags, took backups and got myself ready, a mere 30 minutes, but it'll have to do. Yeah, this hotel was dogshit terrible. I wouldn't recommend it to my worst enemy, which at the time, was the hotel owner and manager. As I was leaving, the manager had the audacity to ask for a tip using the most universal signal, the shuffling of fingers. Forcing my mouth into a smile, I folded my hands and moved my head from side to side. No point in wasting my energy on a dumb fuck who'd ruin my mood even further.
 
-Blood boiling, I made my way back to Murphy, strapped on the bagpack and tank-bag, and was on the road, shouting curses in my head at the manager of the hotel. Truly, one of the worst stay experiences of my entire life.
+Blood boiling, I made my way back to Murphy, strapped on the backpack and tank-bag, and was on the road, shouting curses in my head at the manager of the hotel. Truly, one of the worst stay experiences of my entire life.
 
 ### Theri Kaadu
 
-Seeing the first tip of India, I was dead set on seeing the second one on the same day. That is, Kanyakumari. Although, to be fair, I had just one stop before actually going there. I'd heard about this place, called Theri Kaadu, a sand-forest. Not just any sand-forest, but a red one. The only place in India with naturally occuring red sand. Obviously, I had to check it out. And since it was on my way to Kanyakumari, I thought hey, why not? Hey, by the way, here are some more shots of me on Tamil Nadu highways:
+Seeing the first tip of India, I was dead set on seeing the second one on the same day. That is, Kanyakumari. Although, to be fair, I had just one stop before actually going there. I'd heard about this place, called Theri Kaadu, a sand-forest. Not just any sand-forest, but a red one. The only place in India with naturally occurring red sand. Obviously, I had to check it out. And since it was on my way to Kanyakumari, I thought hey, why not? Hey, by the way, here are some more shots of me on Tamil Nadu highways:
 
 <div class="one-one-grid">
   <div>
@@ -553,7 +553,7 @@ A sight to behold, truly. Also, the place where I clicked the cover photograph f
 
 Anyways, making my way down south, I reach Tuticorin, where I missed a right turn that I had to make at an intersection and shot straight past it and nearly reached the docks. Confused and lost as to why the GPS / Navigation wasn't working, I stopped at a U-turn trying to figure out where to go, when I was pleasantly greeted by an uncle on a scooty, pointing towards Murphy's number plate and asking me, _"HR.. Haryana?"_. I smiled with my eyes and replied, _"Yes"_. He seemed happy, I asked him for instructions and he told me to take the U-turn, and take the next left, a couple hundred metres away, and went his way before I could thank him, waving his hand in the air.
 
-> That day, I realized something about human nature. When you're planning on starting something, the world tells you what all obstacles and challanges you're going to face, almost making you quit, thinking that the effort would be in vain and it's probably not worth it. It's necessary you do it anyway, not for the world, but for yourself. Becauase once you start succeeding, you'll inevitably find people who'll be there to support you. Some for a few pages, some for a couple chapters, some for an entire lifetime.
+> That day, I realized something about human nature. When you're planning on starting something, the world tells you what all obstacles and challenges you're going to face, almost making you quit, thinking that the effort would be in vain and it's probably not worth it. It's necessary you do it anyway, not for the world, but for yourself. Because once you start succeeding, you'll inevitably find people who'll be there to support you. Some for a few pages, some for a couple chapters, some for an entire lifetime.
 {: .prompt-tip }
 
 A few hours, and terrible off-roading later, I found myself at Theri Kaadu, with the vast red sand desert spread all around me. Although technically not off-roading, considering the amount of sand that got into Murphy, I'll count it as one:
@@ -584,11 +584,11 @@ It was 3:30 PM already, Google Maps was showing Kanyakumari as 2+ hours away. Th
 > - **Name**: Hotel Staar World
 > - **Location**: [6-112-B, Kovalam Rd, opp. Kerala House, Kanniyakumari, Tamil Nadu 629702](https://maps.app.goo.gl/RhUoTCiuVA16jmiNA)
 > - **Price**: ₹1321
-> - **Accomodation Type**: Deluxe Double Non AC
+> - **Accommodation Type**: Deluxe Double Non AC
 > - **Night Stayed**: 1
 {: .prompt-info }
 
-Booking a stay closest to me and checking right in, I dropped my gear off, taking my helmet and Toothless, making my way downstairs, and out towards the sunset view point by 5:30. The crowd was kinda there already, so, I knew my best bet of getting some good photos would be a little off-beat. Climing some rocks, I made my way down and let Toothless loose:
+Booking a stay closest to me and checking right in, I dropped my gear off, taking my helmet and Toothless, making my way downstairs, and out towards the sunset view point by 5:30. The crowd was kinda there already, so, I knew my best bet of getting some good photos would be a little off-beat. Climbing some rocks, I made my way down and let Toothless loose:
 
 <div class="one-one-grid">
   <div>
@@ -612,7 +612,7 @@ One of them, the fugly, borderline illiterate one, called Mr. K. Reddy, came at 
 
 Now, if you're an Indian at heart, like me, you obviously know that all he wanted was some bribe money. I was, obviously, not letting him attain the pleasure of extracting some from me. Hence, I "complied" with him as he took me to his superior. Like duh, you're not getting promoted beyond this post with _that_ attitude. A stupid, ignorant and an arrogant person like him. No wonder he's stuck here.
 
-But, coming to the topic at hand, I played that "careless pretty girl" way. Ignorance is bliss, right? That's what I did.As I approached Reddy's superior, we got to talking. Now that man was smart and intelligible, unlike Reddy. He asked me stuff, like:
+But, coming to the topic at hand, I played that "careless pretty girl" way. Ignorance is bliss, right? That's what I did. As I approached Reddy's superior, we got to talking. Now that man was smart and intelligible, unlike Reddy. He asked me stuff, like:
 
 - What's my name?
 - Where am I staying?
@@ -623,13 +623,13 @@ But, coming to the topic at hand, I played that "careless pretty girl" way. Igno
 
 Thinking of playing with him, I told him that I'm Rakesh, from Kolkata, arrived via train from Chennai, staying in Hotel Sun World (I saw it's board from my Hotel's exit), and will be making my way to Rameshwaram tomorrow. Now, I took this calculated risk, knowing full well that he could've taken me to the police station for interrogation. He asked to see my Aadhar Card. I froze momentarily. It was in my back pocket, but if I pulled it out, he would've known I was lying. Playing it cool, I replied, "It's at the hotel, sir".
 
-He took a quick look at me, almost felt like he was scanning me. He asked me, "How old?". I replied, "22". "Student?". "Job". "Engineer?". "Lawyer" (I lied). Hearing that I was a lawyer, he pulled me aside. Explained to me that beyond this lied international waters and it'd be unwise of me to fly a drone around here. I explained since mine was a Mini done (<250 gms), it was legally alright for me to fly it _without a license_ or prior permission. Told me to keep it low, for now, and enjoy the peace and go back to the hotel.
+He took a quick look at me, almost felt like he was scanning me. He asked me, "How old?". I replied, "22". "Student?". "Job". "Engineer?". "Lawyer" (I lied). Hearing that I was a lawyer, he pulled me aside. Explained to me that beyond this lied international waters and it'd be unwise of me to fly a drone around here. I explained since mine was a Mini drone (<250 gms), it was legally alright for me to fly it _without a license_ or prior permission. Told me to keep it low, for now, and enjoy the peace and go back to the hotel.
 
 Seeing me almost free, Reddy was unhappy. And he left no stone unturned to make sure I knew he was unhappy (for not being able to earn a bribe). He talked with his superior, and told me "Photo. If fly again, arrest". I knew I'll play him again, _just because_ he had the balls to say this to me. Replying "Okay", I started modelling and told him to take a photo (even offered him my phone). Clicking my picture, he was furious. And agitated. Wanted to take some sort of revenge on me. Told me to delete all the photos I'd taken from here with Toothless.
 
 Knowing that I was dealing with a near-illiterate dumb person, I pulled out Toothless' controller, connected it to my phone, deleted a couple of pictures from my phone's album in front of him (they were in the recently deleted folder anyways), told him the rest was not from here (and he did take a good look at my gallery, invasion of privacy much?), and when he was content, he let me go.
 
-But, I wasn't done with him yet, not for the night at least. He knew I was travelling solo. I asked him to click my picture with the sunset. Solely to make him angry. He looked at his superior, his superior shrugged, and unwillingly, he clicked some terrible pictures of me, at an angle, like the ones people used to do back in 2010. Yeah, that's when I knew. Reddy was mentally struck in 2010 when it was almost 2026 now. No wonder he acted the way he did. His ooga-booga brain was not finished developing his frontal lobe. Not yet. Probably will never be. And I parted ways with him, he still kept his eyes one me. But this won't be the last we hear of him. Not in this story :)
+But, I wasn't done with him yet, not for the night at least. He knew I was travelling solo. I asked him to click my picture with the sunset. Solely to make him angry. He looked at his superior, his superior shrugged, and unwillingly, he clicked some terrible pictures of me, at an angle, like the ones people used to do back in 2010. Yeah, that's when I knew. Reddy was mentally stuck in 2010 when it was almost 2026 now. No wonder he acted the way he did. His ooga-booga brain was not finished developing his frontal lobe. Not yet. Probably will never be. And I parted ways with him, he still kept his eyes on me. But this won't be the last we hear of him. Not in this story :)
 
 Quickly getting myself a few more pictures, I video called my Fufaji (uncle), who is one of my biggest supporters when it comes to travel. He was the one who re-affirmed my plan of driving till Kanyakumari when I jokingly told him that "we can go there one day by drive". The ₹50 sunglasses I picked up randomly near Colaba seem pretty good, don't they? XD
 
@@ -644,7 +644,7 @@ Quickly getting myself a few more pictures, I video called my Fufaji (uncle), wh
   </div>
 </div>
 
-After the sunset, with the sky pitch black and dark (like my sense of humour), I made my way back to where I'd parked Murphy. Stomach growling, I sawa fish stand in the distance. A family of three was having some food from the stall. Going up to them, I asked if the fish was any good. Seeing their enthusiastic reply, I asked the stall owner to set me up with one, and he suggested me a soda to pair it with. Fun fact, the soda bottle had a marble inside, which I have till date as a souvenir.
+After the sunset, with the sky pitch black and dark (like my sense of humour), I made my way back to where I'd parked Murphy. Stomach growling, I saw a fish stand in the distance. A family of three was having some food from the stall. Going up to them, I asked if the fish was any good. Seeing their enthusiastic reply, I asked the stall owner to set me up with one, and he suggested me a soda to pair it with. Fun fact, the soda bottle had a marble inside, which I have till date as a souvenir.
 
 <div class="one-one-grid">
   <div>
@@ -683,7 +683,7 @@ Sleeping that early does have its benefits. Waking up at 6 AM sharp without an a
 
 Making my way back to the hotel, I spotted a familiar policeman. Grinning, with nearly all my teeth exposed, I made eye contact and ran away. Didn't have Toothless on me, he couldn't do anything. Seeing him, my ego got the better of me. I was going to take drone shots of Kanyakumari in the morning. As I said, I don't take risks unless they're well calculated.
 
-Reaching the hotel, I packed my stuff up and made my way down, fully geared with my helmet on. Brought out Murphy from the basement to the ground floor parking and strapped on my bagpack, and talking a lift to the rooftop. Took a couple of selfies, and sent Toothless up:
+Reaching the hotel, I packed my stuff up and made my way down, fully geared with my helmet on. Brought out Murphy from the basement to the ground floor parking and strapped on my backpack, and taking a lift to the rooftop. Took a couple of selfies, and sent Toothless up:
 
 <div class="one-one-grid">
   <div>
@@ -698,9 +698,9 @@ Reaching the hotel, I packed my stuff up and made my way down, fully geared with
   </div>
 </div>
 
-On the top of the controller was visible, on a red background and white color, "Strong Wind Warning". Toothless had been through a lot, a broken wing included. But this time, I was prepared. The risk was accepted. The calculations were exact and precise. Toothless made his way to the last known location of a certain dumb policeman, flying directly above him, Toothless descended until the cop was able to loop up and spot it. And capture his glaring black eyes. Satisfied, I brought him back home.
+On the top of the controller was visible, on a red background and white color, "Strong Wind Warning". Toothless had been through a lot, a broken wing included. But this time, I was prepared. The risk was accepted. The calculations were exact and precise. Toothless made his way to the last known location of a certain dumb policeman, flying directly above him, Toothless descended until the cop was able to look up and spot it. And capture his glaring black eyes. Satisfied, I brought him back home.
 
-I could see that Reddy was making his way through the crowd towards the hotel I he'd heard me telling his superior. I knew I had just 5 minutes before he was there, and I _had_ to leave my hotel before it. Skipping the lift and taking the stairs, descending 6 flights of it, I was at the reception again. But this time, it was crowded. With school kids, no older than 12-13 years old. Me, in my full riding attire, a helmet with a GoPro on, it was my **"Main Character, all eyes on me"** moment. 8 year old me would've been proud. Hearing the sirens in the background (Sun World Hotel was pretty close to mine), taking Murphy out, revved her up LOUD, and went westward towards NH 44 (later 66). On a side note, not only the children's, but their teachers' eyes were on me too. Just saying ;)
+I could see that Reddy was making his way through the crowd towards the hotel that he'd heard me telling his superior. I knew I had just 5 minutes before he was there, and I _had_ to leave my hotel before it. Skipping the lift and taking the stairs, descending 6 flights of it, I was at the reception again. But this time, it was crowded. With school kids, no older than 12-13 years old. Me, in my full riding attire, a helmet with a GoPro on, it was my **"Main Character, all eyes on me"** moment. 8 year old me would've been proud. Hearing the sirens in the background (Sun World Hotel was pretty close to mine), taking Murphy out, revved her up LOUD, and went westward towards NH 44 (later 66). On a side note, not only the children's, but their teachers' eyes were on me too. Just saying ;)
 
 ### God's Own Country
 
@@ -749,7 +749,7 @@ Once I reached Varkala, finding the actual hostel took me quite a lot of time. T
 > - **Name**: Kulture KonnecT
 > - **Location**: [Kurakkanni - Odayam Rd, Varkala, Kerala 695141](https://maps.app.goo.gl/T2dxQBCtvP5pFuKV7)
 > - **Price**: ₹2265
-> - **Accomodation Type**: 6 Bed AC Mixed Dormitory
+> - **Accommodation Type**: 6 Bed AC Mixed Dormitory
 > - **Night Stayed**: 2
 {: .prompt-info }
 
@@ -791,7 +791,7 @@ It was 3:15 PM, with the Toddy place 20 minutes away, and the Kayaking place a f
   </div>
 </div>
 
-Ordering a Toddy and a water bottle (I was thirsty), I sat down. The dude stared at me blankly, thinking what crime I was about to commit. And with the benefit of hindsight, it was a crime. For the un-initiated, let me spare you a moment of googling "What is Toddy?". Its fucking alcohol. Made from natural sap of palm trees like coconut, fermented and tastes sour. Yeah, the dude back at the hostel had suggested me to drink alcohol before I kayak and drive back 40 minutes to the hostel. Genuis. But me? Not one to back away from a little challenge. Drank two glasses from the bottle, and thought that this was it. There's genuinely no way I'll be able to finish drinking this. Unless radical measures are taken. Grabbing the bottle, I raised it it the air and didn't stop gulping until the bottle was empty. You only live once, right? _This was MY unfortunate decision_.
+Ordering a Toddy and a water bottle (I was thirsty), I sat down. The dude stared at me blankly, thinking what crime I was about to commit. And with the benefit of hindsight, it was a crime. For the un-initiated, let me spare you a moment of googling "What is Toddy?". Its fucking alcohol. Made from natural sap of palm trees like coconut, fermented and tastes sour. Yeah, the dude back at the hostel had suggested me to drink alcohol before I kayak and drive back 40 minutes to the hostel. Genius. But me? Not one to back away from a little challenge. Drank two glasses from the bottle, and thought that this was it. There's genuinely no way I'll be able to finish drinking this. Unless radical measures are taken. Grabbing the bottle, I raised it in the air and didn't stop gulping until the bottle was empty. You only live once, right? _This was MY unfortunate decision_.
 
 Owning it completely, and feeling nauseous and hella drunk, I sat on Murphy for a good 5 minutes before speeding away and making my way to the Kayaking place, reaching there around 4. The last stretch, the road was practically a dirt one, non-existent, and on top of that, a stupid driver was driving an Innova on it:
 
