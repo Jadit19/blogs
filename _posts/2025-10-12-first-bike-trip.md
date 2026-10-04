@@ -5,6 +5,6 @@ author: adit
 date: 2025-10-12 23:41:00 +0530
 tags: [bike, rishikesh, shimla, chandigarh]
 image:
-  path: /v1768413705/shimla-bemloi_cd9c16.jpg
+  path: /shimla-bemloi.jpg
 ---
 

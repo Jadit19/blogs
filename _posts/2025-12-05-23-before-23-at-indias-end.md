@@ -5,7 +5,7 @@ author: adit
 date: 2025-12-05 23:11:00 +0530
 tags: ['23 before 23', bike, chennai, puducherry, madurai, rameshwaram, dhanushkodi, "theri kaadu", kanyakumari, varkala]
 image:
-  path: /v1768737108/IMG_9915_compressed_ra7ipo.webp
+  path: /IMG_9915.webp
 ---
 
 ## Day 4: Chennai to Puducherry (Dec 2)
@@ -18,29 +18,29 @@ Puducherry was about 150 kms from Chennai, and I planned to take the East Coast 
 
 With no destination set in mind, I simply wanted to roam around. After about 2 kms of aimless driving around, I realized that I'd forgotten my GoPro back at the hotel along with my wind-cheater, and it was still drizzling. Like any sane person, I turned back, grabbed them, and headed onto the Marina Beach. On the way to it, I realized something special happening. The red lights in Tamil Nadu have a different shape than the rest of India. Instead of a bright red circle, it was a red heart. Cute, right?
 
-![](/v1768726200/IMG_9451_compressed_iwpe77.webp)
+![](/IMG_9451.webp)
 
 Unfortunately, the Marina Beach was closed due to the recent cyclone, so I couldn't explore it. Plus the sunrise I was planning to see, was clouded by, you guessed it, the damn clouds. Disappointed but undeterred, I decided to head towards the central railway station. I kinda have a rule, well not a rule per-se, a general thing that I take a photo of me with the station board of as many places as possible, if I'm able to. So, I parked Murphy outside the railway station, rain still falling, and went in like a complete hobo.
 
 The station is quite old, but HUGE neverthless. I wandered around, taking in the architecture and the hustle and bustle of the place, observing the crowds of people coming and going. Most of them were at the station entrace / exits, standing, without umbrella, waiting for someone to come and get them. I found a spot near the platform, where I could see the trains coming and going. The sound of the trains and the announcements over the loudspeakers created a symphony of sounds that was both chaotic and mesmerizing. Spotted a double-decker sitting train bogey too, the first I'd seen in India. I walked till the end, where I got the shot I wanted and headed back to Murphy in the parking, and eventually made my way back to the hotel.
 
-![](/v1768728694/IMG_9473_compressed_xyofxj.webp)
+![](/IMG_9473.webp)
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1768728719/IMG_9466_compressed_xkby5c.webp" />
+    <img src="/IMG_9466.webp" />
   </div>
   <div>
-    <img src="/v1768728730/IMG_9476_compressed_od17sy.webp" />
+    <img src="/IMG_9476.webp" />
   </div>
 </div>
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1768728737/IMG_9456_compressed_kxmo0r.webp" />
+    <img src="/IMG_9456.webp" />
   </div>
   <div>
-    <img src="/v1768728745/IMG_9478_compressed_ghfval.webp" />
+    <img src="/IMG_9478.webp" />
   </div>
 </div>
 
@@ -53,11 +53,11 @@ Crossing Chennai took me the good part of an hour and a half, thanks to the ongo
 <div class="one-one-grid">
   <div>
     <video autoplay loop muted playsinline>
-      <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1768735149/GX010078_converted_jdkrb5.mp4" type="video/mp4">
+      <source src="https://res.cloudinary.com/axisrarn/video/upload/GX010078.mp4" type="video/mp4">
     </video>
   </div>
   <div>
-    <img src="/v1768729750/IMG_9488_compressed_kdruno.webp" />
+    <img src="/IMG_9488.webp" />
   </div>
 </div>
 
@@ -65,19 +65,19 @@ Made my way down through Cheyyur, by 11:45 AM. I was getting a bit hungry now. O
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1768730694/IMG_9495_compressed_liq0l6.webp" />
+    <img src="/IMG_9495.webp" />
   </div>
   <div>
-    <img src="/v1768731275/IMG_9498_compressed_lami6w.webp" />
+    <img src="/IMG_9498.webp" />
   </div>
 </div>
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1768732487/IMG_9504_compressed_koq5wz.webp" />
+    <img src="/IMG_9504.webp" />
   </div>
   <div>
-    <img src="/v1768732637/IMG_9496_compressed_dp9mmp.webp" />
+    <img src="/IMG_9496.webp" />
   </div>
 </div>
 
@@ -98,10 +98,10 @@ Oh and before I talk about Puducherry, here's a shot Toothless took on the Palar
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1768733162/DJI_20251202110523_0001_D_compressed_qt6nn3.webp" />
+    <img src="/DJI_20251202110523_0001.webp" />
   </div>
   <div>
-    <img src="/v1768733166/DJI_20251202124550_0012_D_compressed_cflok0.webp" />
+    <img src="/DJI_20251202124550_0012.webp" />
   </div>
 </div>
 
@@ -117,7 +117,7 @@ Yeah, White Town is pretty much an Instagram-dependant aesthetic-only wannabe-in
   </div>
   <div>
     <video autoplay loop muted playsinline>
-      <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1768734291/DJI_20251202145934_0016_D_converted_fxge5r.mp4" type="video/mp4">
+      <source src="https://res.cloudinary.com/axisrarn/video/upload/DJI_20251202145934_0016.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -126,42 +126,42 @@ The rest of the day, and the night, I spent around roaming the white town. On fo
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1768734942/IMG_9568_compressed_xhziwo.webp" />
+    <img src="/IMG_9568.webp" />
   </div>
   <div>
-    <img src="/v1768734866/IMG_9539_compressed_ghnit6.webp" />
-  </div>
-</div>
-<div class="one-one-grid">
-  <div>
-    <img src="/v1768734899/IMG_9526_compressed_oh9wou.webp" />
-  </div>
-  <div>
-    <img src="/v1768734900/IMG_9614_compressed_yhevx4.webp" />
+    <img src="/IMG_9539.webp" />
   </div>
 </div>
 <div class="one-one-grid">
   <div>
-    <img src="/v1768734910/IMG_9558_compressed_b3vaia.webp" />
+    <img src="/IMG_9526.webp" />
   </div>
   <div>
-    <img src="/v1768734932/IMG_9510_compressed_wo8fah.webp" />
-  </div>
-</div>
-<div class="one-one-grid">
-  <div>
-    <img src="/v1768735631/IMG_9634_compressed_wqb5ai.webp" />
-  </div>
-  <div>
-    <img src="/v1768734897/IMG_9584_compressed_b0yyzw.webp" />
+    <img src="/IMG_9614.webp" />
   </div>
 </div>
 <div class="one-one-grid">
   <div>
-    <img src="/v1768734936/IMG_9647_compressed_un9yxw.webp" />
+    <img src="/IMG_9558.webp" />
   </div>
   <div>
-    <img src="/v1768734952/IMG_9587_compressed_ipossk.webp" />
+    <img src="/IMG_9510.webp" />
+  </div>
+</div>
+<div class="one-one-grid">
+  <div>
+    <img src="/IMG_9634.webp" />
+  </div>
+  <div>
+    <img src="/IMG_9584.webp" />
+  </div>
+</div>
+<div class="one-one-grid">
+  <div>
+    <img src="/IMG_9647.webp" />
+  </div>
+  <div>
+    <img src="/IMG_9587.webp" />
   </div>
 </div>
 
@@ -169,34 +169,34 @@ Oh, btw, I did go to a temple over there, Arulmigu Manakula Vinayagar Devasthana
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1768734949/IMG_9626_compressed_jsnvr2.webp" />
+    <img src="/IMG_9626.webp" />
   </div>
   <div>
-    <img src="/v1768734944/IMG_9632_compressed_jpiltt.webp" />
+    <img src="/IMG_9632.webp" />
   </div>
 </div>
 
 I ate a lot of food, trust me. Complimented a few people on how good they looked. And just roamed around, without a goal in mind as this was the first time in the last 24 hours when the weather was kinda okay. The city has its charm, I'll give you that. The people are warm and the food is good. The climate was a bit too humid for my taste, but hey, I'm a mountain person anyway. Soon, it got dark, so I decided to hit the rocks one last time, and captured an alright picture of mine, that I like, so I'll keep it up in full resolution:
 
-![](/v1768734875/IMG_9675_compressed_zuyqbm.webp)
+![](/IMG_9675.webp)
 
 Toothless, like the demon-head he is, wanted to fly one more time before turning in for the night. And like any parent who cares too deeply about their kid, I let him have this one. He did not disappoint:
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1768736537/DJI_20251202181234_0040_D_compressed_vpzvsl.jpg" />
+    <img src="/DJI_20251202181234_0040.jpg" />
   </div>
   <div>
-    <img src="/v1768736521/DJI_20251202173122_0037_D_compressed_h66owq.jpg" />
+    <img src="/DJI_20251202173122_0037.jpg" />
   </div>
 </div>
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1768736506/DJI_20251202150537_0026_D_compressed_fmrkiq.jpg" />
+    <img src="/DJI_20251202150537_0026.jpg" />
   </div>
   <div>
-    <img src="/v1768736528/DJI_20251202181859_0052_D_compressed_qmrszl.jpg" />
+    <img src="/DJI_20251202181859_0052.jpg" />
   </div>
 </div>
 
@@ -211,7 +211,7 @@ I had ground to cover today, and I meant business. Woke up before the ass crack 
 Yeah, I cannot stop gushing about how terrific the highways of Tamil Nadu were. They say a picture is worth a thousand words, let me give you a video, having a thousand pictures (frames):
 
 <video autoplay loop muted playsinline>
-    <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1768810251/GX010091_converted_ot8eh9.mp4" type="video/mp4">
+    <source src="https://res.cloudinary.com/axisrarn/video/upload/GX010091.mp4" type="video/mp4">
 </video>
 
 Madurai was about 5 hours, 330 kms away from Puducherry. And there was just one place I wanted to visit over there, you guessed it, the Meenakshi-Amma Temple. After about another hour of drive, around 8 AM, I was clear of Tiruchirappalli, when I decided to pull into a dhaba, where I got myself some coffee, chips and biscuits. I know, not a healthy start to the day, but I needed something in my body for today. A couple minutes later, 3 guys sat around the table I was on. The closest to me, Vijay, stuck up a conversation with me, that went something like this:
@@ -234,7 +234,7 @@ Madurai was about 5 hours, 330 kms away from Puducherry. And there was just one 
     I'll not go through the entirety of the conversation here, it is quite interesting. Turns out his mom had worked in Bombay (yes, long before we knew the city as Mumbai) with Lata Mangeshkar. Although a farmer by profession, he plays in the local Cricket league. We exchanged contacts and even to this day, I see him posting, on his WhatsApp status, his cricket wins. I went to pay for my stuff but he calmly said no, and paid for it instead. I thanked him and asked to get a picture with him and his friends, got on Murphy and off I went
   </div>
   <div>
-    <img src="/v1768806689/IMG_9702_compressed_o7dfi4.webp" />
+    <img src="/IMG_9702.webp" />
   </div>
 </div>
 
@@ -242,19 +242,19 @@ The drive was unbeliveably good, I kid you not, ladies and gentlemen. My award f
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1768806704/DJI_20251203092547_0072_D_compressed_wagati.webp" />
+    <img src="/DJI_20251203092547_0072.webp" />
   </div>
   <div>
-    <img src="/v1768806716/DJI_20251203083956_0061_D_compressed_u5ngiv.webp" />
+    <img src="/DJI_20251203083956_0061.webp" />
   </div>
 </div>
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1768806740/DJI_20251203084054_0064_D_compressed_nqrgis.webp" />
+    <img src="/DJI_20251203084054_0064.webp" />
   </div>
   <div>
-    <img src="/v1768806741/DJI_20251203092437_0069_D_compressed_vuclzw.webp" />
+    <img src="/DJI_20251203092437_0069.webp" />
   </div>
 </div>
 
@@ -274,7 +274,7 @@ The food hall was open, but there was an extremely long line, which to be honest
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1768812618/IMG_9727_compressed_vccg2z.webp" />
+    <img src="/IMG_9727.webp" />
   </div>
   <div>
     Paying the bill, and leaving a 200% tip, I collected my stuff and made my way to the multi-level car parking. Toothless wanted to fly. There are no drones allowed inside the temple premises, so i get to get creative, taking the temple and traffic police, both, info mind. So after procuring a good spot near the parking that would let me depart quickly, I let him spread his wings and take an orbit shot of the Temple
@@ -282,7 +282,7 @@ The food hall was open, but there was an extremely long line, which to be honest
 </div>
 
 <video autoplay loop muted playsinline>
-  <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1768812558/DJI_20251203123903_0078_D_converted_tuz0s1.mp4" type="video/mp4">
+  <source src="https://res.cloudinary.com/axisrarn/video/upload/DJI_20251203123903_0078.mp4" type="video/mp4">
 </video>
 
 ### Rameshwaram
@@ -291,23 +291,23 @@ Leaving Madurai around 1:15 PM, I was on my way to Rameshwaram, following the Va
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1768983535/DJI_20251203134655_0095_D_compressed_kqspii.webp" />
+    <img src="/DJI_20251203134655_0095.webp" />
   </div>
   <div>
-    <img src="/v1768983531/DJI_20251203134715_0096_D_compressed_ggepni.webp" />
+    <img src="/DJI_20251203134715_0096.webp" />
   </div>
 </div>
 
 The pleasant cloudy weather, the terrific greenery, smooth roads, oh I could go on for FOREVER. 180 kms was too less. I was flying and I loved it. Every fibre of my being was happy. And free. Like absolutely nothing else mattered in this world. Just me, the wind, Murphy and wherever the road decides to take me today:
 
-![](/v1768983547/DJI_20251203134611_0092_D_compressed_fxlu4v.webp)
+![](/DJI_20251203134611_0092.webp)
 
 <div class="one-one-grid">
   <div>
     With bollywood bangers from the 2010-2020 era playing in my helmet, I cruised my way to Rameshwaram and found myself on the iconic Pamban bridge around 3:10 PM. And boy was I in awe of the sea, the engineering and the calmness of the place. Standing smack dab in the middle of the bridge, I parked Murphy on the left, went up on the side-walk, removed my helmet and just stood there was a good 10 minutes before even attempting to move any muscle in my body. The town up ahead was a pilgrimage town to me, but not in a way you might be thinking.
   </div>
   <div>
-    <img src="/v1768984657/IMG_9736_compressed_wukc4w.webp" />
+    <img src="/IMG_9736.webp" />
   </div>
 </div>
 
@@ -315,30 +315,30 @@ Toothless was tired, but I had to let him experience the cool sea breeze caressi
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1769009423/DJI_20251203151803_0098_D_compressed_msnqce.webp" />
+    <img src="/DJI_20251203151803_0098.webp" />
   </div>
   <div>
-    <img src="/v1769009422/DJI_20251203152230_0108_D_compressed_ojfwjn.webp" />
+    <img src="/DJI_20251203152230_0108.webp" />
   </div>
 </div>
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1769009420/DJI_20251203152114_0104_D_compressed_yuc4pe.webp" />
+    <img src="/DJI_20251203152114_0104.webp" />
   </div>
   <div>
-    <img src="/v1769009423/DJI_20251203151925_0101_D_compressed_yjelfh.webp" />
+    <img src="/DJI_20251203151925_0101.webp" />
   </div>
 </div>
 
 Oh, you thought I was done and Toothless was satisfied with _just_ photos? That I'd ignore the **obvious** train passing through the Pamban bridge? A shot like that? Think again
 
 <video autoplay loop muted playsinline>
-  <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1769009968/DJI_20251203152128_0106_D_converted_fnhuut.mp4" type="video/mp4">
+  <source src="https://res.cloudinary.com/axisrarn/video/upload/DJI_20251203152128_0106.mp4" type="video/mp4">
 </video>
 
 <video autoplay loop muted playsinline>
-  <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1769009967/DJI_20251203152329_0109_D_converted_lbtykt.mp4" type="video/mp4">
+  <source src="https://res.cloudinary.com/axisrarn/video/upload/DJI_20251203152329_0109.mp4" type="video/mp4">
 </video>
 
 After a good half hour of just standing on the bridge, I made my way towards the Ramanathaswamy temple, and standing literally on the crossroads, I made a reservation in one of the hotels nearby. Took me a good 15 minutes to find the hotel I had made a reservation in. Turned out it was right across the street, opposite to where Google Maps claimed it to be. I checked-in into a pretty shabby room, should've read the Google Maps reviews before doing the reservation, but I had litte to no energy left and was in desperate need of a shower.
@@ -363,20 +363,20 @@ And off we went. To the end of National Highway 87. Towards Dhanushkodi. Fun fac
 
 The first thought in my mind went to the only logical conclusion: "Would I have to drive through water to reach there?!". And then reasoning kicked in when I saw the Dhanushkodi lighthouse. To be fair, without all that gear, and driving at 120 kmph, with just a helmet, the sand from the nearby beaches were piercing my skin since I had shorts on. Never again, I thought to myself. Stupidity has its limits, and I had just hit one. Eventually, within 10 minutes, we were there:
 
-![](/v1769016636/IMG_9742_compressed_zzwhve.webp)
+![](/IMG_9742.webp)
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1769016635/IMG_9745_compressed_y7wdbe.webp" />
+    <img src="/IMG_9745.webp" />
   </div>
   <div>
-    <img src="/v1769016634/IMG_9749_compressed_vupueh.webp" />
+    <img src="/IMG_9749.webp" />
   </div>
 </div>
 
 <div class="one-two-grid">
   <div>
-    <img src="/v1769016635/IMG_9766_compressed_xftulq.webp" />
+    <img src="/IMG_9766.webp" />
   </div>
   <div>
     The sunset? Majestic. The vibes? Awesome. The views? Serene. The crowd? Too much for my liking. Atleast half a dozen tempos, just blocking the way, and the view. Still, we reached there anyway, parked murphy, and took a look around. As the sunset was nearing and I wanted to get Toothless up and get plenty of shots.<br /><br />
@@ -391,10 +391,10 @@ Enter the man, the myth, the legend, _Muthu_. Dude swopped in, charmed the polic
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1769016634/IMG_9784_compressed_gs6j5f.webp" />
+    <img src="/IMG_9784.webp" />
   </div>
   <div>
-    <img src="/v1769016636/IMG_9793_compressed_bfwun7.webp" />
+    <img src="/IMG_9793.webp" />
   </div>
 </div>
 
@@ -409,23 +409,23 @@ Having all this food naturally got me feeling tired and sleepy. Somehow, I was a
 Woke up at 4 AM (thanks alarm), quickly decided to sleep for some more time. Woke up again at 6 AM and stayed in bed for half-hour before deciding to finally make my way to Dhanushkodi, again, to see the sunrise. This time, I had a plan in mind, as far as the shots I wanted to take were concerned. Since I'd be leaving so early, I was not expecting any traffic on NH 87, on my way towards Dhankushkodi, and I was not disappointed, getting the follow shot I so desperately wanted:
 
 <video autoplay loop muted playsinline>
-    <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1769191734/DJI_20251204062602_0120_D_converted_ynnl1q.mp4" type="video/mp4">
+    <source src="https://res.cloudinary.com/axisrarn/video/upload/DJI_20251204062602_0120.mp4" type="video/mp4">
 </video>
 
 The swan crossing the frame at one point was the cherry on the cake. Took me more than 10 takes to get a single one right, I'll be blatantly honest. In the beginning, when I was flirting with Toothless' object-tracking mode, I swear to god, I drove so slow, a fully-loaded auto overtook me. With ease. The driver took my confidence with him. Packing Toothless, I made my mission to reach the Ashoka statue before him, overtaking him in the process, which I did, without much effort, thanks to Murphy <3.
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1769191644/DJI_20251204070027_0126_D_compressed_yj0ebw.webp" />
+    <img src="/DJI_20251204070027_0126.webp" />
   </div>
   <div>
-    <img src="/v1769191642/DJI_20251204070129_0128_D_compressed_aewobn.webp" />
+    <img src="/DJI_20251204070129_0128.webp" />
   </div>
 </div>
 
 <div class="one-two-grid">
   <div>
-    <img src="/v1769191640/DJI_20251204070432_0130_D_compressed_cwvllj.webp" />
+    <img src="/DJI_20251204070432_0130.webp" />
   </div>
   <div>
     Let's get this out of the way. Yes, according to mythology, this was the place where Ram Setu's construction was started. And it is rumoured that if you write "राम" on a stone, and throw it in the water, it'll float. As a life-long student of science, I had to test this hypothesis to see if it's true. For exactly this purpose, I had brought a marker with me, from Chennai. Picking up a random stone, I wrote "राम" on it and threw it in the water just within eyesight. It sank, and with it, my belief in the mythology being real, reinforcing my atheist beliefs. Don't get me wrong. As a story, it is truly a wonderful epic. But do I believe in the events actually taking place in the past? Absolutely not. To re-iterate what I said before, this is solely my personal opinion and you're free to disagree with me. <br /><br />
@@ -440,16 +440,16 @@ Little did I know that I'd soon be interrupted by a tiny little hut just on the 
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1769194115/IMG_9818_compressed_znmbf5.webp" />
-    <img src="/v1769194094/DJI_20251204073842_0149_D_compressed_n6zu2k.webp" />
-    <img src="/v1769194340/IMG_9836_compressed_dw6ocn.webp" />
-    <img src="/v1769194105/IMG_9853_compressed_ko1osw.webp" />
+    <img src="/IMG_9818.webp" />
+    <img src="/DJI_20251204073842_0149.webp" />
+    <img src="/IMG_9836.webp" />
+    <img src="/IMG_9853.webp" />
   </div>
   <div>
-    <img src="/v1769194094/DJI_20251204074201_0154_D_compressed_tgamta.webp" />
-    <img src="/v1769194098/IMG_9829_compressed_c2sthi.webp" />
-    <img src="/v1769194094/DJI_20251204074221_0155_D_compressed_bfj6cn.webp" />
-    <img src="/v1769194106/IMG_9856_compressed_lepd9u.webp" />
+    <img src="/DJI_20251204074201_0154.webp" />
+    <img src="/IMG_9829.webp" />
+    <img src="/DJI_20251204074221_0155.webp" />
+    <img src="/IMG_9856.webp" />
   </div>
 </div>
 
@@ -470,7 +470,7 @@ Little did I know that I'd soon be interrupted by a tiny little hut just on the 
     </ul>
   </div>
   <div>
-    <img src="/v1769195364/IMG_9863_compressed_o8lnk7.webp" />
+    <img src="/IMG_9863.webp" />
   </div>
 </div>
 
@@ -478,10 +478,10 @@ The man has even an award named after him by the Tamil Nadu State Government (I'
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1769232769/IMG_9864_compressed_e0zlpx.webp" />
+    <img src="/IMG_9864.webp" />
   </div>
   <div>
-    <img src="/v1769233366/IMG_9865_compressed_mnhbvj.webp" />
+    <img src="/IMG_9865.webp" />
   </div>
 </div>
 
@@ -491,28 +491,28 @@ The original plan was to wake up at 4, and go visit the temple. The first part w
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1769233011/IMG_9876_compressed_sqazyi.webp" />
+    <img src="/IMG_9876.webp" />
   </div>
   <div>
-    <img src="/v1769232992/IMG_9881_compressed_y9lnc7.webp" />
-  </div>
-</div>
-
-<div class="one-one-grid">
-  <div>
-    <img src="/v1769233018/IMG_9871_compressed_tjy2f4.webp" />
-  </div>
-  <div>
-    <img src="/v1769232994/IMG_9882_compressed_bdxmeh.webp" />
+    <img src="/IMG_9881.webp" />
   </div>
 </div>
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1769233023/IMG_9889_compressed_qwejbt.webp" />
+    <img src="/IMG_9871.webp" />
   </div>
   <div>
-    <img src="/v1769233021/IMG_9891_compressed_ykfers.webp" />
+    <img src="/IMG_9882.webp" />
+  </div>
+</div>
+
+<div class="one-one-grid">
+  <div>
+    <img src="/IMG_9889.webp" />
+  </div>
+  <div>
+    <img src="/IMG_9891.webp" />
   </div>
 </div>
 
@@ -528,10 +528,10 @@ Seeing the first tip of India, I was dead set on seeing the second one on the sa
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1769263880/DJI_20251204123959_0165_D_compressed_z4jjlt.webp" />
+    <img src="/DJI_20251204123959_0165.webp" />
   </div>
   <div>
-    <img src="/v1769263876/DJI_20251204124405_0175_D_compressed_x4eirm.webp" />
+    <img src="/DJI_20251204124405_0175.webp" />
   </div>
 </div>
 
@@ -539,10 +539,10 @@ The drive till there was pretty uneventful, obviously, Tamil Nadu govt had mind-
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1769274242/IMG_9914_compressed_pdbpbx.webp" />
+    <img src="/IMG_9914.webp" />
   </div>
   <div>
-    <img src="/v1769274239/DJI_20251204134153_0179_D_compressed_bj3fqo.webp" />
+    <img src="/DJI_20251204134153_0179.webp" />
   </div>
 </div>
 
@@ -559,15 +559,15 @@ Anyways, making my way down south, I reach Tuticorin, where I missed a right tur
 A few hours, and terrible off-roading later, I found myself at Theri Kaadu, with the vast red sand desert spread all around me. Although technically not off-roading, considering the amount of sand that got into Murphy, I'll count it as one:
 
 <video autoplay loop muted playsinline>
-    <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1769276683/GX010130_converted_xqcyhp.mp4" type="video/mp4">
+    <source src="https://res.cloudinary.com/axisrarn/video/upload/GX010130.mp4" type="video/mp4">
 </video>
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1769276434/DJI_20251204152547_0186_D_compressed_mpk9u6.webp" />
+    <img src="/DJI_20251204152547_0186.webp" />
   </div>
   <div>
-    <img src="/v1769276428/DJI_20251204152558_0188_D_compressed_oojdoj.webp" />
+    <img src="/DJI_20251204152558_0188.webp" />
   </div>
 </div>
 
@@ -576,7 +576,7 @@ A few hours, and terrible off-roading later, I found myself at Theri Kaadu, with
 It was 3:30 PM already, Google Maps was showing Kanyakumari as 2+ hours away. That meant reaching post 5:30 PM, and with sunset around 6, it was going to be a close call, since I did not have a stay booked there anyway. But the human spirit in me? Fucking indomitable. Taking NH 89, TNSH 176 and TNSH 27, I reached Kanyakumari by 4:45. On the way, I drove through so many damn wind-turbines, and on the outskirts of Kanyakumari, I saw something I wasn't prepared for. Mountain-like hills, right in front of me, standing tall and mighty.
 
 <video autoplay loop muted playsinline>
-    <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1769280196/GX010132_converted_fdiytu.mp4" type="video/mp4">
+    <source src="https://res.cloudinary.com/axisrarn/video/upload/GX010132.mp4" type="video/mp4">
 </video>
 
 > **Stay Information**
@@ -592,10 +592,10 @@ Booking a stay closest to me and checking right in, I dropped my gear off, takin
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1769282445/DJI_20251204174528_0200_D_compressed_b1rwta.webp" />
+    <img src="/DJI_20251204174528_0200.webp" />
   </div>
   <div>
-    <img src="/v1769282457/DJI_20251204174824_0206_D_compressed_yfpt7s.webp" />
+    <img src="/DJI_20251204174824.webp" />
   </div>
 </div>
 
@@ -635,11 +635,11 @@ Quickly getting myself a few more pictures, I video called my Fufaji (uncle), wh
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1769327372/IMG_0015_compressed_uvskaz.webp" />
+    <img src="/IMG_0015.webp" />
   </div>
   <div>
     <video autoplay loop muted playsinline>
-      <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1769327095/IMG_0037_converted_qorwx5.mp4" type="video/mp4">
+      <source src="https://res.cloudinary.com/axisrarn/video/upload/IMG_0037.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -648,10 +648,10 @@ After the sunset, with the sky pitch black and dark (like my sense of humour), I
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1769327034/IMG_0045_compressed_fejn2l.webp" />
+    <img src="/IMG_0045.webp" />
   </div>
   <div>
-    <img src="/v1769327035/IMG_0046_compressed_dwpf1t.webp" />
+    <img src="/IMG_0046.webp" />
   </div>
 </div>
 
@@ -665,19 +665,19 @@ Sleeping that early does have its benefits. Waking up at 6 AM sharp without an a
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1769331273/IMG_0056_compressed_vimuwx.webp" />
+    <img src="/IMG_0056.webp" />
   </div>
   <div>
-    <img src="/v1769331273/IMG_0066_compressed_wkbrfe.webp" />
+    <img src="/IMG_0066.webp" />
   </div>
 </div>
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1769331280/IMG_0074_compressed_ihxz6u.webp" />
+    <img src="/IMG_0074.webp" />
   </div>
   <div>
-    <img src="/v1769331275/IMG_0084_compressed_on2att.webp" />
+    <img src="/IMG_0084.webp" />
   </div>
 </div>
 
@@ -687,14 +687,14 @@ Reaching the hotel, I packed my stuff up and made my way down, fully geared with
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1769336603/DJI_20251205074852_0012_D_compressed_bjh2ho.webp" />
-    <img src="/v1769336601/IMG_0114_compressed_vihga1.webp" />
-    <img src="/v1769336600/DJI_20251205074821_0009_D_compressed_ppxubw.webp" />
+    <img src="/DJI_20251205074852_0012.webp" />
+    <img src="/IMG_0114.webp" />
+    <img src="/DJI_20251205074821_0009.webp" />
   </div>
   <div>
-    <img src="/v1769336596/IMG_0102_compressed_v9rpdn.webp" />
-    <img src="/v1769336612/DJI_20251205074901_0013_D_compressed_ehdtia.webp" />
-    <img src="/v1769336602/DJI_20251205074846_0011_D_compressed_mehqv3.webp" />
+    <img src="/IMG_0102.webp" />
+    <img src="/DJI_20251205074901_0013.webp" />
+    <img src="/DJI_20251205074846_0011.webp" />
   </div>
 </div>
 
@@ -709,12 +709,12 @@ The next destination? Varkala. I'd heard a lot about this place, and wanted to s
 <div class="one-one-grid">
   <div>
     <video autoplay loop muted playsinline>
-      <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1769339936/GX010133_converted_dzjt0u.mp4" type="video/mp4">
+      <source src="https://res.cloudinary.com/axisrarn/video/upload/GX010133.mp4" type="video/mp4">
     </video>
   </div>
   <div>
     <video autoplay loop muted playsinline>
-      <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1769340051/GX010139_converted_i63tlk.mp4" type="video/mp4">
+      <source src="https://res.cloudinary.com/axisrarn/video/upload/GX010139.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -722,24 +722,24 @@ The next destination? Varkala. I'd heard a lot about this place, and wanted to s
 Making plenty of stops along the way, and letting Toothless go batshit crazy very many times, I saw the very first backwater I'd seen in my entire life. And it didn't disappoint. The ride was very smooth and extremely scenic as I'd followed the coastal road, which is quite picturesque. Toothless even took some wallpaper worthy shots, first of many:
 
 <video autoplay loop muted playsinline>
-    <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1769341724/DJI_20251205104155_0035_D_converted_vot315.mp4" type="video/mp4">
+    <source src="https://res.cloudinary.com/axisrarn/video/upload/DJI_20251205104155_0035.mp4" type="video/mp4">
 </video>
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1769340818/DJI_20251205102328_0023_D_compressed_fskx00.webp" />
-    <img src="/v1769340786/DJI_20251205102311_0022_D_compressed_jsq2jb.webp" />
-    <img src="/v1769340821/DJI_20251205103749_0033_D_compressed_my70qn.webp" />
+    <img src="/DJI_20251205102328_0023.webp" />
+    <img src="/DJI_20251205102311_0022.webp" />
+    <img src="/DJI_20251205103749_0033.webp" />
   </div>
   <div>
-    <img src="/v1769340796/DJI_20251205104316_0036_D_compressed_cysj9w.webp" />
-    <img src="/v1769340803/DJI_20251205103645_0028_D_compressed_z5a79g.webp" />
-    <img src="/v1769340805/DJI_20251205104339_0038_D_compressed_fdhuzl.webp" />
+    <img src="/DJI_20251205104316_0036.webp" />
+    <img src="/DJI_20251205103645_0028.webp" />
+    <img src="/DJI_20251205104339_0038.webp" />
   </div>
 </div>
 
 <video autoplay loop muted playsinline>
-    <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1769341266/DJI_20251205101904_0018_D_converted_zsvwzo.mp4" type="video/mp4">
+    <source src="https://res.cloudinary.com/axisrarn/video/upload/DJI_20251205101904_0018.mp4" type="video/mp4">
 </video>
 
 Once I reached Varkala, finding the actual hostel took me quite a lot of time. The main road is pretty good, but the smaller ones? They're horrible. Soon, I reached my home for the next two days, and since I was a bit early, had to wait a little. Unpacking, I got to know that I had the entire hostel dorm all to myself, for now:
@@ -758,19 +758,19 @@ Once I reached Varkala, finding the actual hostel took me quite a lot of time. T
 Not having any breakfast had me hungry, which compelled me to look for a place. Asking around, one of the people recommended Cafe Sarwaa to me. Putting in the location on Google Maps, I reached there around 2, got myself some sandwich and milkshake, and asked if Toothless could fly, and turns out they were absolutely drone-friendly. Hell, even the manager, Rohit, came out and asked me if it'd be possible for me to share the drone video with him. Yes, a bit expensive, but absolutely worth the price.
 
 <video autoplay loop muted playsinline>
-    <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1769351850/DJI_20251205141430_0047_D_converted_xxompy.mp4" type="video/mp4">
+    <source src="https://res.cloudinary.com/axisrarn/video/upload/DJI_20251205141430_0047.mp4" type="video/mp4">
 </video>
 
 For the people who value aesthetic pictures more than genuine experiences and raw emotions, here's something for you guys:
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1769406503/IMG_0140_compressed_dzfey3.webp" />
-    <img src="/v1769406505/IMG_0144_compressed_t63rl0.webp" />
+    <img src="/IMG_0140.webp" />
+    <img src="/IMG_0144.webp" />
   </div>
   <div>
-    <img src="/v1769406503/IMG_0150_compressed_ssevuc.webp" />
-    <img src="/v1769406485/IMG_0152_compressed_h46rlz.webp" />
+    <img src="/IMG_0150.webp" />
+    <img src="/IMG_0152.webp" />
   </div>
 </div>
 
@@ -784,10 +784,10 @@ It was 3:15 PM, with the Toddy place 20 minutes away, and the Kayaking place a f
 
 <div class="two-one-grid">
   <div>
-    <img src="/v1769407883/IMG_0160_compressed_be3ur2.webp" />
+    <img src="/IMG_0160.webp" />
   </div>
   <div>
-    <img src="/v1769407360/IMG_0161_compressed_ll2dae.webp" />
+    <img src="/IMG_0161.webp" />
   </div>
 </div>
 
@@ -796,7 +796,7 @@ Ordering a Toddy and a water bottle (I was thirsty), I sat down. The dude stared
 Owning it completely, and feeling nauseous and hella drunk, I sat on Murphy for a good 5 minutes before speeding away and making my way to the Kayaking place, reaching there around 4. The last stretch, the road was practically a dirt one, non-existent, and on top of that, a stupid driver was driving an Innova on it:
 
 <video autoplay loop muted playsinline>
-    <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1769408607/GX010199_converted_cmbffv.mp4" type="video/mp4">
+    <source src="https://res.cloudinary.com/axisrarn/video/upload/GX010199.mp4" type="video/mp4">
 </video>
 
 Parking my bike, I was angry at the driver, and wanted to give him a piece of my mind. Seeing only women step out of the car, my drunk brain assumed, the driver must be a woman. Huh, makes sense. Little did I know that I'd just seen, for the very first time, the lady who was about to change the direction of my trip.

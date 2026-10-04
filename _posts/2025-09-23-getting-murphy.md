@@ -5,7 +5,7 @@ author: adit
 date: 2025-09-23 20:00:00 +0530
 tags: [bike, typhoid]
 image:
-  path: /v1768402180/murphy-new_t2qnrd.jpg
+  path: /murphy-new.jpg
 ---
 
 ## Back story
@@ -30,7 +30,7 @@ Yep, this *is* the big one. Since the beginning of September, I had been feeling
 
 <div class="one-two-grid">
   <div>
-    <img src="/v1768405278/typhoid-canula_xkroqg.jpg" />
+    <img src="/typhoid-canula.jpg" />
   </div>
   <div>
     I called up my manager at work and told him that I'll not be able to work from Sept 8-12. One of the truly lowest points of my life, without doubt. Everything seemed falling apart. I recovered somewhat by Sunday, Sept 14. Took one dose of the drip on Monday morning, removed the canula from my hand and went to work (the company I work for doesn't allow WFH on Mondays and Fridays, and I was dead set on not taking another leave), came back from work and got another canula attached on my other hand. <br/><br/>
@@ -64,7 +64,7 @@ On the beautiful evening of Sept 21, my phone decided that it was about time tha
   </div>
 
   <div>
-    <img src="/v1768407718/murphy-dealership_fnhvcd.jpg" />
+    <img src="/murphy-dealership.jpg" />
   </div>
 </div>
 <br/>

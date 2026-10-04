@@ -5,7 +5,7 @@ author: adit
 date: 2025-12-01 22:31:00 +0530
 tags: ['23 before 23', bike, delhi, arga, nagpur, hyderabad, charminar, chennai, cyclone]
 image:
-  path: /v1768567207/taj-mahal-first-glimpse_bjmmgh.jpg
+  path: /taj-mahal-first-glimpse.jpg
 ---
 
 ## Day 0: Delhi to Agra (Nov 28)
@@ -42,7 +42,7 @@ Quick piece of trivia for you: The gates for Taj Mahal don't have a fixed time o
 
 To the surprise of no one, there was already a queue formed outside the gate. For probably the first time in my life, I was happy to be in an Indian-only queue. Dude, the foreigners' queue was like 5 times longer than hours. Got myself a water bottle and some shoe covers (can't go into the tomb without them now-a-days) stading in the queue. After waiting for more than half an hour, and a quick yet thorough security check, I was in. And boy, was it worth it.
 
-![Taj Mahal Solo Shot](/v1768567214/taj-mahal-solo-shot_vcddlr.jpg)
+![Taj Mahal Solo Shot](/taj-mahal-solo-shot.jpg)
 
 After a quick look around, and some mesmerizing shots, I returned back to my hostel by 7:30. Had to spend about half hour debugging a production issue on a Saturday morning (perks of being the on-call engineer) before I could get breakfast in the hostel's rooftop cafe. The views were alright, but I had a ticking timer in my head. I had to reach Hyderabad in the next 2 days and according to ChatGPT, the route I was planning was pretty close to maniacal, 1300+ kms is no joke, especially on Indian roads. Had a light breakfast, drank 3 cups of coffee, packed my bags and headed downstairs to my bike.
 
@@ -64,7 +64,7 @@ It was almost 6 hours on the road for now, and the majority of riders will tell 
   </div>
 
   <div>
-    <img src="/v1768582263/agra-nagpur-drive_vpachm.png" />
+    <img src="/agra-nagpur-drive.png" />
   </div>
 </div>
 <br/>
@@ -88,13 +88,13 @@ Murphy was excited, I was well rested (dreamless sleep), and there was only one 
 
 <div class="one-two-grid">
   <div>
-    <img src="/v1768584856/DJI_20251130071141_0077_D_v2fmxq.jpg" /><br />
-    <img src="/v1768587221/DJI_20251130070955_0075_D_compressed_oqivec.webp" />
+    <img src="/DJI_20251130071141_0077.jpg" /><br />
+    <img src="/DJI_20251130070955_0075.webp" />
   </div>
   <div>
-    <img src="/v1768586961/DJI_20251130071337_0081_D_compressed_hybkxy.webp" /><br />
-    <img src="/v1768586961/DJI_20251130071547_0083_D_compressed_pc6y76.webp" /><br />
-    <img src="/v1768586957/DJI_20251130101227_0111_D_compressed_tjnsu1.webp" />
+    <img src="/DJI_20251130071337_0081.webp" /><br />
+    <img src="/DJI_20251130071547_0083.webp" /><br />
+    <img src="/DJI_20251130101227_0111.webp" />
   </div>
 </div>
 
@@ -122,7 +122,7 @@ A colleague of mine from work, Srithan, is originally from Hyderabad. I called h
 
 Yeah. It's a lot. And it was a GOOOOOD thing I was hungry asf. I reached there, got in line, and waited for around 20 minutes. The thing is, I was by myself. And the tables over there seat exactly 4. It was peak time and there was no way I was getting a table all to myself. Fortunately, and thanks to my great luck, I was seated with three people a couple years older than me and believe me when I tell you this, we had a blast. Two guys and a girl. All three were in Hyderabad for a trip as well. Two were from IISc Bangalore (Vaishnavi and Alvin Joshua) and one was from Gujrat, working in Vijaywada (Rutvik).
 
-![Irani Chai + Osmania Biscuit](/v1768589348/IMG_9361_llnf99_compressed_pkpan2.webp)
+![Irani Chai + Osmania Biscuit](/IMG_9361.webp)
 
 Rutvik and I bonded particularly well since we shared the same travel gene and the craze for adventure. We exchanged travel stories, and I told them about my 23 Before 23 plan. They were amazed, and we exchanged contact numbers, to keep in touch in case any of us were planning a trip sometime soon, New Year's for example.
 
@@ -134,10 +134,10 @@ We made our way through the sea of people towards Charminar, and boy was it beau
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1768587884/IMG_9376_compressed_rkhwrg.webp" />
+    <img src="/IMG_9376.webp" />
   </div>
   <div>
-    <img src="/v1768587884/IMG_9394_compressed_lucwbd.webp" />
+    <img src="/IMG_9394.webp" />
   </div>
 </div>
 
@@ -145,7 +145,7 @@ We took a look around, with "Beware of pick-pocketers" being blasted through the
 
 Immediately, Rutvik was like "I am in. Let's head to a more secluded area where the police cant find us". Alvin had no comments and Vaishnavi was visibly uncomfortable with the idea, but she agreed to tag along. And that's what we did, making our way out of the crowded Charminar area and into the street north of [Santoshi Matha Mandir](https://maps.app.goo.gl/H5LEioDE8xJKEBwc7). I setup Toothless and flew it straigh up. Charminar was sporting the Indian flag and did it look pretty:
 
-![Me and the gang at Charminar](/v1768586956/DJI_20251130184742_0119_D_compressed_msclo5.webp)
+![Me and the gang at Charminar](/DJI_20251130184742_0119.webp)
 
 Worried that the police might show up any minute (since we had already asked a local policeman if we could fly drones around here, and him, non-chalantly replying "Yes, if you're winning to go to jail"), I quickly brought Toothless down and packed him up. I was visibly upset that I couldn't get an orbit shot, and I think Rutvik noticed it. After walking a couple hundred feet, he asked what the range of my drone was. 2km, I said, sheepishly. His eyes lit up. "Thodi dur chalte h phir, logo se dur, jahaan police humein pakad hi na paaye". You already know I was on-board with this mad idea.
 
@@ -157,7 +157,7 @@ Suddenly, the controller went black and white. No signal. Heart in my mouth, I f
 
 ### Birla Mandir
 
-![Birla Mandir](/v1768708084/IMG_9397_compressed_b0npbu.webp)
+![Birla Mandir](/IMG_9397.webp)
 
 <div class="two-one-grid">
   <div>
@@ -166,24 +166,24 @@ Suddenly, the controller went black and white. No signal. Heart in my mouth, I f
     After spending about 15-20 mins, just admiring the view, we headed back down. Near the parking, I observed a sign that said "Birla Planetarium", "Dinosaurium" and "G P Birla Observatory". The nerd in me was happily excited. Reality struck in. Chennai was tomorrow, I decided to make a mental note of reserving a day exclusively for this the next time I'm in Hyderabad.
   </div>
   <div>
-    <img src="/v1768589384/IMG_9399_eyeqdx_compressed_v6iyya.webp" />
+    <img src="/IMG_9399.webp" />
   </div>
 </div>
 
 
 <video
   autoplay loop muted playsinline style="max-width: 100%; height: auto; margin-top: 0.5rem;">
-  <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1768709278/DJI_20251130203134_0131_D_converted_hw3mkk.mp4" type="video/mp4">
+  <source src="https://res.cloudinary.com/axisrarn/video/upload/DJI_20251130203134_0131.mp4" type="video/mp4">
 </video>
 
 The three of them were staying at an AirBnb for the night and were leaving tomorrow. Rutvik, on the other hand, had a bus tonight (10:30 PM I think?). I was in the mood for a Kulfi. Fun fact, I'm always in the mood for some Kulfi. After a bit of off-roading, me and Rutvik made our way down to a Naturals outlet nearby. Had some delicious kulfi there, chatted a little, and then bid aideu to each other, promising to keep in touch. I made my way back to the hostel, unpacked my stuff, put my mobile, power-bank, GoPro and Toothless' batteries to charge and promptly hit the bed, ready for Chennai tomorrow. The hostel I spent the night in was pretty good:
 
 <div class="one-one-grid">
   <div>
-    <img src="/v1768711504/IMG_9405_compressed_wlyivn.webp" />
+    <img src="/IMG_9405.webp" />
   </div>
   <div>
-    <img src="/v1768589373/IMG_9407_xykylw_compressed_lyrusp.webp" />
+    <img src="/IMG_9407.webp" />
   </div>
 </div>
 
@@ -195,15 +195,15 @@ Woke up early morning at 5:30 AM, woke up almost the entire dorm along with me (
 
 I was excited seeing the trees as my head was filled with just one thought. I had seen a lot of drone FPV videos, and this was my day I thought. Pulled Toothless out, flew him up, and got some pretty good shots of the coconut trees:
 
-![](/v1768712532/DJI_20251201070158_0132_D_compressed_eitvgh.webp)
+![](/DJI_20251201070158_0132.webp)
 
-![](/v1768712533/DJI_20251201070320_0138_D_compressed_ewel9w.webp)
+![](/DJI_20251201070320_0138.webp)
 
 High on confidence from evading the police yesterday, to getting the drone back safely, and the silence of this place, I made an impulsive decision to put Toothless on "Sport Mode" and fly him over the coconut trees. For the uninitiated, Sport Mode is a mode in DJI drones where the drone flies at its maximum speed, and the controls are more sensitive. It also **disables the obstacle avoidance sensors**. I took off, flew him around and in-between the trees and was having a blast when I turned him around as he was flying back and then *BAM!!*
 
 <video
   autoplay loop muted playsinline style="max-width: 100%; height: auto; margin-top: 0.5rem;">
-  <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1768713169/DJI_20251201070424_0141_D_converted_lnynef.mp4" type="video/mp4">
+  <source src="https://res.cloudinary.com/axisrarn/video/upload/DJI_20251201070424_0141.mp4" type="video/mp4">
 </video>
 
 He crashed headfirst into the leaves of a Coconut tree, getting stuck somewhere around 15-20 metres high. Bear in mind, I was standing a couple hundred metres away, on the roadside. Panic absorbed me, I was disturbed. Toothless was still connected to my controller, and I could see the live feed. But I couldn't control him. I tried everything ChatGPT told me to do in such situations. Nothing worked, he was stuck and I was feeling devastated. Almost in tears, the thought of leaving him there crossed my mind. But I couldn't do that. Not after all we've been through together. I had to get him down.
@@ -224,15 +224,15 @@ I stayed there for a while, drank some water, and called up my friend, Akshit. H
 
 Obviously, I chose the latter one. There was no way I was deviating from my schedule. And that was about to cost me, dearly, as you'll find out soon enough. Making my way south-east, I headed onwards to the Ngarjuna Sagar dam, on the river Krishna, bordering both Telangana and Andhra Pradesh. Did a bit of off-roading and dirt biking there, and thoroughly missed the ability to fly and get close-up shots. With the benefit of hind-sight, had I flown Toothless too close to the dam, the army could've possibly captured my drone as an energy-producing dam is of military interest. Police is one thing, but there was no way in hell I was going to mess with the military so I grabbed some photos on my phone instead:
 
-![](/v1768714779/IMG_9424_compressed_ap8wx2.webp)
+![](/IMG_9424.webp)
 
-![](/v1768714780/IMG_9425_compressed_ryvj2x.webp)
+![](/IMG_9425.webp)
 
 Murphy looks GOOOOOOOOOD, doesn't she? I made my way further south-east along NH 565 till Macherla, and with the cloudy weather, clean roads, no-one in sight? That drive was terrific, to say the least. 150+ on straight stretches and conrnering on 100? Oh I was in heaven.
 
 <video
   autoplay loop muted playsinline style="max-width: 100%; height: auto; margin-top: 0.5rem;">
-  <source src="https://res.cloudinary.com/dthsy1k8g/video/upload/v1768716216/GX010039_converted_jnj0fc.mp4" type="video/mp4">
+  <source src="https://res.cloudinary.com/axisrarn/video/upload/GX010039.mp4" type="video/mp4">
 </video>
 
 ### Nature's other plans
@@ -268,6 +268,6 @@ With Toothless gaining his wing back, my trip was on again and I was on cloud ni
 
 Like you, the only word I registered from this entire conversation was "Cyclone?" I had ridden 4+ hours, 200+ kms through a fucking cyclone? I was hella proud of myself. Not a bad day. Chennai was starting to look a whole lot good too (I absolutely love a city just after the rain):
 
-![](/v1768720119/IMG_9443_compressed_muj4ox.webp)
+![](/IMG_9443.webp)
 
 The traffic was still terrible, don't get me wrong. But surviving a cyclone gave me a jolting boost of confidence. But it had taken a lot from me too. I was exhausted, drained and tired. I just wanted to go to sleep. And back I went to my hotel, putting my electronics to charge, GoPro to dry and embraced the sleep, to get ready to face the cyclone again tomorrow on my way to Puducherry.

@@ -5,7 +5,7 @@ author: adit
 date: 2025-12-08 14:27:00 +0530
 tags: ['23 before 23', bike, varkala, surfing, kayaking]
 image:
-  path: /v1769409563/IMG_0454_compressed_ekvwkx.webp
+  path: /IMG_0454.webp
 ---
 
 ## Day 7: Varkala (Dec 5)
@@ -18,7 +18,7 @@ Dropping my bag off at the shock, he gave me an orange water-proof poch to keep 
 
 As I made my way out of the shack, I saw a group of boys, who were also about to go kayaking. There were eight of them, as a group. Casually chatting them up, I found out they were from somewhere in Andhra Pradesh, and were on their winter vacation from college. All of them in their third year too. Around 20-21 year olds, I deduced. Their first time kayaking as well. They were super friendly, and we ended up chatting for a while before I made my way out into the edge of the pond in front of me, which was the starting point for kayaking. Gorgeous, without a doubt. The water was so calm, and the greenery around it was so lush. It was a sight to behold.
 
-![](/v1771068434/IMG_0164_compressed_i1fzhh.webp)
+![](/IMG_0164.webp)
 
 Seeing the pond/lake, I was sure that this was simply a staging area, a place to learn how to kayak and then we would be heading into the Mangroves, which was the main attraction. After inhaling the fresh air, that my lungs were not used to at all, and after I was done admiring the view and more importantly the cleanliness, I made my way to the place where the Kayaks were lined up, making small talk with the five Innova women. Turned out, they were from Bengaluru, which was going to be one of the stops on my trip. And unfortunately, I'd accidentally let it slide that I was drunk. Yeah, rookie mistake, I know. And they did stay clear of me, almost all, except one.
 
